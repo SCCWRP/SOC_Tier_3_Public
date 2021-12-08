@@ -1,0 +1,530 @@
+ProbabilityThreshold,Species,Life_Stage,Hydraulic,Node,Scenario,Position,QTarget,HTarget,Calculation,code
+Low,Chub,Adult,Depth,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,1.35,37.6583744744132,Q >= newx1Low,I01-012_slice2
+Low,Chub,Adult,Depth,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Low,I01-012_slice2
+Med,Chub,Adult,Depth,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,2.69,53.1892758143914,Q >= newx1Med,I01-012_slice2
+Med,Chub,Adult,Depth,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Med,I01-012_slice2
+High,Chub,Adult,Depth,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,4.52,68.7206253059133,Q >= newx1High,I01-012_slice2
+High,Chub,Adult,Depth,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1High,I01-012_slice2
+Low,Chub,Adult,Velocity,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.3,1.02597132523339,Q >= min_limit & Q <= newx1Low,I01-012_slice2
+Low,Chub,Adult,Velocity,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Low,I01-012_slice2
+Med,Chub,Adult,Velocity,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.2,0.872194434966717,Q >= min_limit & Q <= newx1Med,I01-012_slice2
+Med,Chub,Adult,Velocity,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Med,I01-012_slice2
+High,Chub,Adult,Velocity,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.01,0.261774888377957,Q >= newx1High[1] & Q <= newx1High[2],I01-012_slice2
+High,Chub,Adult,Velocity,I01-012,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.14,0.740116228495686,Q >= newx1High[1] & Q <= newx1High[2],I01-012_slice2
+Low,Chub,Adult,Depth,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,1.15,37.657887094661,Q >= newx1Low,I01-020_slice2
+Low,Chub,Adult,Depth,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Low,I01-020_slice2
+Med,Chub,Adult,Depth,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q < 0,I01-020_slice2
+High,Chub,Adult,Depth,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q < 0,I01-020_slice2
+Low,Chub,Adult,Velocity,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.26,1.02594312233242,Q >= min_limit & Q <= newx1Low,I01-020_slice2
+Low,Chub,Adult,Velocity,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Low,I01-020_slice2
+Med,Chub,Adult,Velocity,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0,0.129707369899783,Q >= newx1Med[1] & Q <= newx1Med[2],I01-020_slice2
+Med,Chub,Adult,Velocity,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.17,0.87218116389024,Q >= newx1Med[1] & Q <= newx1Med[2],I01-020_slice2
+High,Chub,Adult,Velocity,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0,0.261779144145428,Q >= newx1High[1] & Q <= newx1High[2],I01-020_slice2
+High,Chub,Adult,Velocity,I01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.11,0.74010939066076,Q >= newx1High[1] & Q <= newx1High[2],I01-020_slice2
+Low,Chub,Adult,Depth,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,1.75,37.6583796765939,Q >= newx1Low,K01-010_slice3
+Low,Chub,Adult,Depth,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= newx1Low,K01-010_slice3
+Med,Chub,Adult,Depth,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,4.17,53.1892758319177,Q >= newx1Med,K01-010_slice3
+Med,Chub,Adult,Depth,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= newx1Med,K01-010_slice3
+High,Chub,Adult,Depth,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,8.54,68.7201923317541,Q >= newx1High,K01-010_slice3
+High,Chub,Adult,Depth,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= newx1High,K01-010_slice3
+Low,Chub,Adult,Velocity,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,0.91,1.02597132897886,Q >= min_limit & Q <= newx1Low,K01-010_slice3
+Low,Chub,Adult,Velocity,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= min_limit & Q <= newx1Low,K01-010_slice3
+Med,Chub,Adult,Velocity,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,0.54,0.872194440949749,Q >= min_limit & Q <= newx1Med,K01-010_slice3
+Med,Chub,Adult,Velocity,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= min_limit & Q <= newx1Med,K01-010_slice3
+High,Chub,Adult,Velocity,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,0.23,0.740116234842424,Q >= min_limit & Q <= newx1High,K01-010_slice3
+High,Chub,Adult,Velocity,K01-010,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= min_limit & Q <= newx1High,K01-010_slice3
+Low,Chub,Adult,Depth,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,1.04,37.6583805352394,Q >= newx1Low,K01-011_slice2
+Low,Chub,Adult,Depth,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Low,K01-011_slice2
+Med,Chub,Adult,Depth,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,3.17,53.1892758362254,Q >= newx1Med,K01-011_slice2
+Med,Chub,Adult,Depth,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Med,K01-011_slice2
+High,Chub,Adult,Depth,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q < 0,K01-011_slice2
+Low,Chub,Adult,Velocity,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.16,1.02597128974191,Q <= newx1Low[1] & Q >= newx1Low[2],K01-011_slice2
+Low,Chub,Adult,Velocity,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.34,1.02597128974191,Q <= newx1Low[1] & Q >= newx1Low[2],K01-011_slice2
+Med,Chub,Adult,Velocity,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.11,0.872194443406783,Q <= newx1Med[1] & Q >= newx1Med[2],K01-011_slice2
+Med,Chub,Adult,Velocity,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.26,0.872194443406783,Q <= newx1Med[1] & Q >= newx1Med[2],K01-011_slice2
+High,Chub,Adult,Velocity,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.04,0.740116262788482,Q <= newx1High[1] & Q >= newx1High[2],K01-011_slice2
+High,Chub,Adult,Velocity,K01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.08,0.740116262788482,Q <= newx1High[1] & Q >= newx1High[2],K01-011_slice2
+Low,Chub,Adult,Depth,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,1.9,37.6583286631917,Q >= newx1Low,K01-020_slice2
+Low,Chub,Adult,Depth,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Low,K01-020_slice2
+Med,Chub,Adult,Depth,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,3.86,53.1892756325784,Q >= newx1Med,K01-020_slice2
+Med,Chub,Adult,Depth,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Med,K01-020_slice2
+High,Chub,Adult,Depth,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,6.58,68.7205082737001,Q >= newx1High,K01-020_slice2
+High,Chub,Adult,Depth,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1High,K01-020_slice2
+Low,Chub,Adult,Velocity,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,5.99,1.0259895862433701,Q >= min_limit & Q <= newx1Low,K01-020_slice2
+Low,Chub,Adult,Velocity,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Low,K01-020_slice2
+Med,Chub,Adult,Velocity,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.01,0.129694102068088,Q >= newx1Med[1] & Q <= newx1Med[2],K01-020_slice2
+Med,Chub,Adult,Velocity,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,2.59,0.872194780480271,Q >= newx1Med[1] & Q <= newx1Med[2],K01-020_slice2
+High,Chub,Adult,Velocity,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.08,0.261772275422925,Q >= newx1High[1] & Q <= newx1High[2],K01-020_slice2
+High,Chub,Adult,Velocity,K01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,1.72,0.740115968925559,Q >= newx1High[1] & Q <= newx1High[2],K01-020_slice2
+Low,Chub,Adult,Depth,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,2.17,37.6583820940008,Q >= newx1Low,K01-030_slice2
+Low,Chub,Adult,Depth,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Low,K01-030_slice2
+Med,Chub,Adult,Depth,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,4.65,53.1892758279566,Q >= newx1Med,K01-030_slice2
+Med,Chub,Adult,Depth,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Med,K01-030_slice2
+High,Chub,Adult,Depth,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,8.17,68.7261221709317,Q >= newx1High,K01-030_slice2
+High,Chub,Adult,Depth,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1High,K01-030_slice2
+Low,Chub,Adult,Velocity,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.81,1.02597130226354,Q >= min_limit & Q <= newx1Low,K01-030_slice2
+Low,Chub,Adult,Velocity,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Low,K01-030_slice2
+Med,Chub,Adult,Velocity,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.47,0.872194505537325,Q >= min_limit & Q <= newx1Med,K01-030_slice2
+Med,Chub,Adult,Velocity,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Med,K01-030_slice2
+High,Chub,Adult,Velocity,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.02,0.261772274163488,Q >= newx1High[1] & Q <= newx1High[2],K01-030_slice2
+High,Chub,Adult,Velocity,K01-030,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.3,0.740116265662486,Q >= newx1High[1] & Q <= newx1High[2],K01-030_slice2
+Low,Chub,Adult,Depth,L01-080,210422_San_Juan_Existing_Conditions,slice3,2.07,37.6583800739975,Q >= newx1Low,L01-080_slice3
+Low,Chub,Adult,Depth,L01-080,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1Low,L01-080_slice3
+Med,Chub,Adult,Depth,L01-080,210422_San_Juan_Existing_Conditions,slice3,5.39,53.1892758526722,Q >= newx1Med,L01-080_slice3
+Med,Chub,Adult,Depth,L01-080,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1Med,L01-080_slice3
+High,Chub,Adult,Depth,L01-080,210422_San_Juan_Existing_Conditions,slice3,10.29,68.7211526664245,Q >= newx1High,L01-080_slice3
+High,Chub,Adult,Depth,L01-080,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1High,L01-080_slice3
+Low,Chub,Adult,Velocity,L01-080,210422_San_Juan_Existing_Conditions,slice3,0.18,1.02597145078731,Q >= min_limit & Q <= newx1Low,L01-080_slice3
+Low,Chub,Adult,Velocity,L01-080,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1Low,L01-080_slice3
+Med,Chub,Adult,Velocity,L01-080,210422_San_Juan_Existing_Conditions,slice3,0.09,0.872194434126559,Q >= min_limit & Q <= newx1Med,L01-080_slice3
+Med,Chub,Adult,Velocity,L01-080,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1Med,L01-080_slice3
+High,Chub,Adult,Velocity,L01-080,210422_San_Juan_Existing_Conditions,slice3,0.07,0.740116264029822,Q >= min_limit & Q <= newx1High,L01-080_slice3
+High,Chub,Adult,Velocity,L01-080,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1High,L01-080_slice3
+Low,Chub,Adult,Depth,L01-100,210422_San_Juan_Existing_Conditions,slice3,12.22,37.6583525612638,Q >= newx1Low,L01-100_slice3
+Low,Chub,Adult,Depth,L01-100,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1Low,L01-100_slice3
+Med,Chub,Adult,Depth,L01-100,210422_San_Juan_Existing_Conditions,slice3,30.15,53.2270840518459,Q >= newx1Med,L01-100_slice3
+Med,Chub,Adult,Depth,L01-100,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1Med,L01-100_slice3
+High,Chub,Adult,Depth,L01-100,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q < 0,L01-100_slice3
+Low,Chub,Adult,Velocity,L01-100,210422_San_Juan_Existing_Conditions,slice3,0.12,1.02597128864333,Q >= min_limit & Q <= newx1Low,L01-100_slice3
+Low,Chub,Adult,Velocity,L01-100,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1Low,L01-100_slice3
+Med,Chub,Adult,Velocity,L01-100,210422_San_Juan_Existing_Conditions,slice3,0.01,0.129694102338734,Q >= newx1Med[1] & Q <= newx1Med[2],L01-100_slice3
+Med,Chub,Adult,Velocity,L01-100,210422_San_Juan_Existing_Conditions,slice3,0.09,0.872194434208074,Q >= newx1Med[1] & Q <= newx1Med[2],L01-100_slice3
+High,Chub,Adult,Velocity,L01-100,210422_San_Juan_Existing_Conditions,slice3,0.01,0.261772275806899,Q >= newx1High[1] & Q <= newx1High[2],L01-100_slice3
+High,Chub,Adult,Velocity,L01-100,210422_San_Juan_Existing_Conditions,slice3,0.06,0.740116264134606,Q >= newx1High[1] & Q <= newx1High[2],L01-100_slice3
+Low,Chub,Adult,Depth,L02-010,210422_San_Juan_Existing_Conditions,slice2,11.01,37.6583748336339,Q >= newx1Low,L02-010_slice2
+Low,Chub,Adult,Depth,L02-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L02-010_slice2
+Med,Chub,Adult,Depth,L02-010,210422_San_Juan_Existing_Conditions,slice2,24.38,53.1892384455529,Q >= newx1Med,L02-010_slice2
+Med,Chub,Adult,Depth,L02-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L02-010_slice2
+High,Chub,Adult,Depth,L02-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q < 0,L02-010_slice2
+Low,Chub,Adult,Velocity,L02-010,210422_San_Juan_Existing_Conditions,slice2,0.79,1.02597129551561,Q >= min_limit & Q <= newx1Low,L02-010_slice2
+Low,Chub,Adult,Velocity,L02-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L02-010_slice2
+Med,Chub,Adult,Velocity,L02-010,210422_San_Juan_Existing_Conditions,slice2,0,0.121735783064372,Q >= newx1Med[1] & Q <= newx1Med[2],L02-010_slice2
+Med,Chub,Adult,Velocity,L02-010,210422_San_Juan_Existing_Conditions,slice2,0.59,0.87219443412288,Q >= newx1Med[1] & Q <= newx1Med[2],L02-010_slice2
+High,Chub,Adult,Velocity,L02-010,210422_San_Juan_Existing_Conditions,slice2,0,0.262034632855384,Q >= newx1High[1] & Q <= newx1High[2],L02-010_slice2
+High,Chub,Adult,Velocity,L02-010,210422_San_Juan_Existing_Conditions,slice2,0.44,0.740116261866075,Q >= newx1High[1] & Q <= newx1High[2],L02-010_slice2
+Low,Chub,Adult,Depth,L02-020,210422_San_Juan_Existing_Conditions,slice1,1.84,37.658382385741,Q >= newx1Low,L02-020_slice1
+Low,Chub,Adult,Depth,L02-020,210422_San_Juan_Existing_Conditions,slice1,NA,NA,Q >= newx1Low,L02-020_slice1
+Med,Chub,Adult,Depth,L02-020,210422_San_Juan_Existing_Conditions,slice1,4.11,53.1892758351137,Q >= newx1Med,L02-020_slice1
+Med,Chub,Adult,Depth,L02-020,210422_San_Juan_Existing_Conditions,slice1,NA,NA,Q >= newx1Med,L02-020_slice1
+High,Chub,Adult,Depth,L02-020,210422_San_Juan_Existing_Conditions,slice1,7.74,68.7201695428246,Q >= newx1High,L02-020_slice1
+High,Chub,Adult,Depth,L02-020,210422_San_Juan_Existing_Conditions,slice1,NA,NA,Q >= newx1High,L02-020_slice1
+Low,Chub,Adult,Velocity,L02-020,210422_San_Juan_Existing_Conditions,slice1,1.34,1.02597129162021,Q >= min_limit & Q <= newx1Low,L02-020_slice1
+Low,Chub,Adult,Velocity,L02-020,210422_San_Juan_Existing_Conditions,slice1,NA,NA,Q >= min_limit & Q <= newx1Low,L02-020_slice1
+Med,Chub,Adult,Velocity,L02-020,210422_San_Juan_Existing_Conditions,slice1,0.01,0.129694102330755,Q >= newx1Med[1] & Q <= newx1Med[2],L02-020_slice1
+Med,Chub,Adult,Velocity,L02-020,210422_San_Juan_Existing_Conditions,slice1,0.8,0.87219443353048,Q >= newx1Med[1] & Q <= newx1Med[2],L02-020_slice1
+High,Chub,Adult,Velocity,L02-020,210422_San_Juan_Existing_Conditions,slice1,0.02,0.261772275750651,Q >= newx1High[1] & Q <= newx1High[2],L02-020_slice1
+High,Chub,Adult,Velocity,L02-020,210422_San_Juan_Existing_Conditions,slice1,0.61,0.740116262391977,Q >= newx1High[1] & Q <= newx1High[2],L02-020_slice1
+Low,Chub,Adult,Depth,L02-021,210422_San_Juan_Existing_Conditions,slice3,1.29,37.6583821979694,Q >= newx1Low,L02-021_slice3
+Low,Chub,Adult,Depth,L02-021,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1Low,L02-021_slice3
+Med,Chub,Adult,Depth,L02-021,210422_San_Juan_Existing_Conditions,slice3,2.65,53.1892758380425,Q >= newx1Med,L02-021_slice3
+Med,Chub,Adult,Depth,L02-021,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1Med,L02-021_slice3
+High,Chub,Adult,Depth,L02-021,210422_San_Juan_Existing_Conditions,slice3,4.52,68.7201758567104,Q >= newx1High,L02-021_slice3
+High,Chub,Adult,Depth,L02-021,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1High,L02-021_slice3
+Low,Chub,Adult,Velocity,L02-021,210422_San_Juan_Existing_Conditions,slice3,0.91,1.02597129765306,Q >= min_limit & Q <= newx1Low,L02-021_slice3
+Low,Chub,Adult,Velocity,L02-021,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1Low,L02-021_slice3
+Med,Chub,Adult,Velocity,L02-021,210422_San_Juan_Existing_Conditions,slice3,0.65,0.872194434908387,Q >= min_limit & Q <= newx1Med,L02-021_slice3
+Med,Chub,Adult,Velocity,L02-021,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1Med,L02-021_slice3
+High,Chub,Adult,Velocity,L02-021,210422_San_Juan_Existing_Conditions,slice3,0.02,0.261772275802714,Q >= newx1High[1] & Q <= newx1High[2],L02-021_slice3
+High,Chub,Adult,Velocity,L02-021,210422_San_Juan_Existing_Conditions,slice3,0.34,0.740116264100513,Q >= newx1High[1] & Q <= newx1High[2],L02-021_slice3
+Low,Chub,Adult,Depth,L02-022,210422_San_Juan_Existing_Conditions,slice2,15.78,37.658381531457,Q >= newx1Low,L02-022_slice2
+Low,Chub,Adult,Depth,L02-022,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L02-022_slice2
+Med,Chub,Adult,Depth,L02-022,210422_San_Juan_Existing_Conditions,slice2,35.99,53.1892758319745,Q >= newx1Med,L02-022_slice2
+Med,Chub,Adult,Depth,L02-022,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L02-022_slice2
+High,Chub,Adult,Depth,L02-022,210422_San_Juan_Existing_Conditions,slice2,68.36,68.722935826449,Q >= newx1High,L02-022_slice2
+High,Chub,Adult,Depth,L02-022,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1High,L02-022_slice2
+Low,Chub,Adult,Velocity,L02-022,210422_San_Juan_Existing_Conditions,slice2,16.41,1.02564976363547,Q >= min_limit & Q <= newx1Low,L02-022_slice2
+Low,Chub,Adult,Velocity,L02-022,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L02-022_slice2
+Med,Chub,Adult,Velocity,L02-022,210422_San_Juan_Existing_Conditions,slice2,0.16,0.129845818625861,Q >= newx1Med[1] & Q <= newx1Med[2],L02-022_slice2
+Med,Chub,Adult,Velocity,L02-022,210422_San_Juan_Existing_Conditions,slice2,12.49,0.872042769698498,Q >= newx1Med[1] & Q <= newx1Med[2],L02-022_slice2
+High,Chub,Adult,Velocity,L02-022,210422_San_Juan_Existing_Conditions,slice2,0.4,0.261850784673635,Q >= newx1High[1] & Q <= newx1High[2],L02-022_slice2
+High,Chub,Adult,Velocity,L02-022,210422_San_Juan_Existing_Conditions,slice2,9.9,0.740037733618836,Q >= newx1High[1] & Q <= newx1High[2],L02-022_slice2
+Low,Chub,Adult,Depth,L02-023,210422_San_Juan_Existing_Conditions,slice4,2.38,37.6583820655415,Q >= newx1Low,L02-023_slice4
+Low,Chub,Adult,Depth,L02-023,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= newx1Low,L02-023_slice4
+Med,Chub,Adult,Depth,L02-023,210422_San_Juan_Existing_Conditions,slice4,4.86,53.1892758330683,Q >= newx1Med,L02-023_slice4
+Med,Chub,Adult,Depth,L02-023,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= newx1Med,L02-023_slice4
+High,Chub,Adult,Depth,L02-023,210422_San_Juan_Existing_Conditions,slice4,8.34,68.7201698503389,Q >= newx1High,L02-023_slice4
+High,Chub,Adult,Depth,L02-023,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= newx1High,L02-023_slice4
+Low,Chub,Adult,Velocity,L02-023,210422_San_Juan_Existing_Conditions,slice4,0.81,1.02597129476604,Q >= min_limit & Q <= newx1Low,L02-023_slice4
+Low,Chub,Adult,Velocity,L02-023,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= min_limit & Q <= newx1Low,L02-023_slice4
+Med,Chub,Adult,Velocity,L02-023,210422_San_Juan_Existing_Conditions,slice4,0.56,0.872194434415558,Q >= min_limit & Q <= newx1Med,L02-023_slice4
+Med,Chub,Adult,Velocity,L02-023,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= min_limit & Q <= newx1Med,L02-023_slice4
+High,Chub,Adult,Velocity,L02-023,210422_San_Juan_Existing_Conditions,slice4,0.39,0.740116264046733,Q >= min_limit & Q <= newx1High,L02-023_slice4
+High,Chub,Adult,Velocity,L02-023,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= min_limit & Q <= newx1High,L02-023_slice4
+Low,Chub,Adult,Depth,L02-030,210422_San_Juan_Existing_Conditions,slice2,4.35,37.6583821575258,Q >= newx1Low,L02-030_slice2
+Low,Chub,Adult,Depth,L02-030,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L02-030_slice2
+Med,Chub,Adult,Depth,L02-030,210422_San_Juan_Existing_Conditions,slice2,10.86,53.1892758330325,Q >= newx1Med,L02-030_slice2
+Med,Chub,Adult,Depth,L02-030,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L02-030_slice2
+High,Chub,Adult,Depth,L02-030,210422_San_Juan_Existing_Conditions,slice2,21.6,68.7202634445658,Q >= newx1High,L02-030_slice2
+High,Chub,Adult,Depth,L02-030,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1High,L02-030_slice2
+Low,Chub,Adult,Velocity,L02-030,210422_San_Juan_Existing_Conditions,slice2,0.64,1.0259713122493,Q >= min_limit & Q <= newx1Low,L02-030_slice2
+Low,Chub,Adult,Velocity,L02-030,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L02-030_slice2
+Med,Chub,Adult,Velocity,L02-030,210422_San_Juan_Existing_Conditions,slice2,0.37,0.87219443347951,Q >= min_limit & Q <= newx1Med,L02-030_slice2
+Med,Chub,Adult,Velocity,L02-030,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Med,L02-030_slice2
+High,Chub,Adult,Velocity,L02-030,210422_San_Juan_Existing_Conditions,slice2,0.21,0.740116263999339,Q >= min_limit & Q <= newx1High,L02-030_slice2
+High,Chub,Adult,Velocity,L02-030,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1High,L02-030_slice2
+Low,Chub,Adult,Depth,L02-031,210422_San_Juan_Existing_Conditions,slice4,2.6,37.6583822190361,Q >= newx1Low,L02-031_slice4
+Low,Chub,Adult,Depth,L02-031,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= newx1Low,L02-031_slice4
+Med,Chub,Adult,Depth,L02-031,210422_San_Juan_Existing_Conditions,slice4,6.72,53.1892758329938,Q >= newx1Med,L02-031_slice4
+Med,Chub,Adult,Depth,L02-031,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= newx1Med,L02-031_slice4
+High,Chub,Adult,Depth,L02-031,210422_San_Juan_Existing_Conditions,slice4,14.22,68.7202128455556,Q >= newx1High,L02-031_slice4
+High,Chub,Adult,Depth,L02-031,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= newx1High,L02-031_slice4
+Low,Chub,Adult,Velocity,L02-031,210422_San_Juan_Existing_Conditions,slice4,1.09,1.02597128940341,Q <= newx1Low[1] & Q >= newx1Low[2],L02-031_slice4
+Low,Chub,Adult,Velocity,L02-031,210422_San_Juan_Existing_Conditions,slice4,4.09,1.02597128940341,Q <= newx1Low[1] & Q >= newx1Low[2],L02-031_slice4
+Med,Chub,Adult,Velocity,L02-031,210422_San_Juan_Existing_Conditions,slice4,0.49,0.87219443342047,Q <= newx1Med[1] & Q >= newx1Med[2],L02-031_slice4
+Med,Chub,Adult,Velocity,L02-031,210422_San_Juan_Existing_Conditions,slice4,1.71,0.87219443342047,Q <= newx1Med[1] & Q >= newx1Med[2],L02-031_slice4
+High,Chub,Adult,Velocity,L02-031,210422_San_Juan_Existing_Conditions,slice4,0.29,0.740116263884189,Q >= min_limit & Q <= newx1High,L02-031_slice4
+High,Chub,Adult,Velocity,L02-031,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= min_limit & Q <= newx1High,L02-031_slice4
+Low,Chub,Adult,Depth,L02-040,210422_San_Juan_Existing_Conditions,slice4,2.94,37.6583810552841,Q >= newx1Low,L02-040_slice4
+Low,Chub,Adult,Depth,L02-040,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= newx1Low,L02-040_slice4
+Med,Chub,Adult,Depth,L02-040,210422_San_Juan_Existing_Conditions,slice4,8.28,53.1892758330691,Q >= newx1Med,L02-040_slice4
+Med,Chub,Adult,Depth,L02-040,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= newx1Med,L02-040_slice4
+High,Chub,Adult,Depth,L02-040,210422_San_Juan_Existing_Conditions,slice4,18.08,68.7202618294208,Q >= newx1High,L02-040_slice4
+High,Chub,Adult,Depth,L02-040,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= newx1High,L02-040_slice4
+Low,Chub,Adult,Velocity,L02-040,210422_San_Juan_Existing_Conditions,slice4,0.34,1.02746190135377,Q <= newx1Low[1] & Q >= newx1Low[2],L02-040_slice4
+Low,Chub,Adult,Velocity,L02-040,210422_San_Juan_Existing_Conditions,slice4,0.42,1.02746190135377,Q <= newx1Low[1] & Q >= newx1Low[2],L02-040_slice4
+Med,Chub,Adult,Velocity,L02-040,210422_San_Juan_Existing_Conditions,slice4,0.24,0.874299502595335,Q >= min_limit & Q <= newx1Med,L02-040_slice4
+Med,Chub,Adult,Velocity,L02-040,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= min_limit & Q <= newx1Med,L02-040_slice4
+High,Chub,Adult,Velocity,L02-040,210422_San_Juan_Existing_Conditions,slice4,0.14,0.743370929161311,Q >= min_limit & Q <= newx1High,L02-040_slice4
+High,Chub,Adult,Velocity,L02-040,210422_San_Juan_Existing_Conditions,slice4,NA,NA,Q >= min_limit & Q <= newx1High,L02-040_slice4
+Low,Chub,Adult,Depth,L02-041,210422_San_Juan_Existing_Conditions,slice2,1.37,37.6583792913845,Q >= newx1Low,L02-041_slice2
+Low,Chub,Adult,Depth,L02-041,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L02-041_slice2
+Med,Chub,Adult,Depth,L02-041,210422_San_Juan_Existing_Conditions,slice2,4.12,53.1892758334904,Q >= newx1Med,L02-041_slice2
+Med,Chub,Adult,Depth,L02-041,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L02-041_slice2
+High,Chub,Adult,Depth,L02-041,210422_San_Juan_Existing_Conditions,slice2,8.86,68.7209760284703,Q >= newx1High,L02-041_slice2
+High,Chub,Adult,Depth,L02-041,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1High,L02-041_slice2
+Low,Chub,Adult,Velocity,L02-041,210422_San_Juan_Existing_Conditions,slice2,6.78,1.02597130970828,Q >= min_limit & Q <= newx1Low,L02-041_slice2
+Low,Chub,Adult,Velocity,L02-041,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L02-041_slice2
+Med,Chub,Adult,Velocity,L02-041,210422_San_Juan_Existing_Conditions,slice2,3.26,0.872194436281545,Q >= min_limit & Q <= newx1Med,L02-041_slice2
+Med,Chub,Adult,Velocity,L02-041,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Med,L02-041_slice2
+High,Chub,Adult,Velocity,L02-041,210422_San_Juan_Existing_Conditions,slice2,2.38,0.740116055504934,Q >= min_limit & Q <= newx1High,L02-041_slice2
+High,Chub,Adult,Velocity,L02-041,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1High,L02-041_slice2
+Low,Chub,Adult,Depth,L02-050,210422_San_Juan_Existing_Conditions,slice2,2.4,37.6583785425462,Q >= newx1Low,L02-050_slice2
+Low,Chub,Adult,Depth,L02-050,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L02-050_slice2
+Med,Chub,Adult,Depth,L02-050,210422_San_Juan_Existing_Conditions,slice2,4.73,53.1892758370275,Q >= newx1Med,L02-050_slice2
+Med,Chub,Adult,Depth,L02-050,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L02-050_slice2
+High,Chub,Adult,Depth,L02-050,210422_San_Juan_Existing_Conditions,slice2,7.82,68.720269082104707,Q >= newx1High,L02-050_slice2
+High,Chub,Adult,Depth,L02-050,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1High,L02-050_slice2
+Low,Chub,Adult,Velocity,L02-050,210422_San_Juan_Existing_Conditions,slice2,0.47,1.0259713418782,Q >= min_limit & Q <= newx1Low,L02-050_slice2
+Low,Chub,Adult,Velocity,L02-050,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L02-050_slice2
+Med,Chub,Adult,Velocity,L02-050,210422_San_Juan_Existing_Conditions,slice2,0.32,0.872194458229522,Q >= min_limit & Q <= newx1Med,L02-050_slice2
+Med,Chub,Adult,Velocity,L02-050,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Med,L02-050_slice2
+High,Chub,Adult,Velocity,L02-050,210422_San_Juan_Existing_Conditions,slice2,0.01,0.261772275605566,Q >= newx1High[1] & Q <= newx1High[2],L02-050_slice2
+High,Chub,Adult,Velocity,L02-050,210422_San_Juan_Existing_Conditions,slice2,0.21,0.740116263663825,Q >= newx1High[1] & Q <= newx1High[2],L02-050_slice2
+Low,Chub,Adult,Depth,L02-051,210422_San_Juan_Existing_Conditions,slice2,2.18,37.6583818288039,Q >= newx1Low,L02-051_slice2
+Low,Chub,Adult,Depth,L02-051,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L02-051_slice2
+Med,Chub,Adult,Depth,L02-051,210422_San_Juan_Existing_Conditions,slice2,4.45,53.1892758377973,Q >= newx1Med,L02-051_slice2
+Med,Chub,Adult,Depth,L02-051,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L02-051_slice2
+High,Chub,Adult,Depth,L02-051,210422_San_Juan_Existing_Conditions,slice2,7.46,68.7201974488648,Q >= newx1High,L02-051_slice2
+High,Chub,Adult,Depth,L02-051,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1High,L02-051_slice2
+Low,Chub,Adult,Velocity,L02-051,210422_San_Juan_Existing_Conditions,slice2,0.45,1.02597132098892,Q >= min_limit & Q <= newx1Low,L02-051_slice2
+Low,Chub,Adult,Velocity,L02-051,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L02-051_slice2
+Med,Chub,Adult,Velocity,L02-051,210422_San_Juan_Existing_Conditions,slice2,0.3,0.872194444150853,Q >= min_limit & Q <= newx1Med,L02-051_slice2
+Med,Chub,Adult,Velocity,L02-051,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Med,L02-051_slice2
+High,Chub,Adult,Velocity,L02-051,210422_San_Juan_Existing_Conditions,slice2,0,0.261772267490768,Q >= newx1High[1] & Q <= newx1High[2],L02-051_slice2
+High,Chub,Adult,Velocity,L02-051,210422_San_Juan_Existing_Conditions,slice2,0.21,0.740116272144809,Q >= newx1High[1] & Q <= newx1High[2],L02-051_slice2
+Low,Chub,Adult,Depth,L03-010,210422_San_Juan_Existing_Conditions,slice2,2.49,37.6575110490118,Q >= newx1Low,L03-010_slice2
+Low,Chub,Adult,Depth,L03-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L03-010_slice2
+Med,Chub,Adult,Depth,L03-010,210422_San_Juan_Existing_Conditions,slice2,6.11,53.1892661281308,Q >= newx1Med,L03-010_slice2
+Med,Chub,Adult,Depth,L03-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L03-010_slice2
+High,Chub,Adult,Depth,L03-010,210422_San_Juan_Existing_Conditions,slice2,11.33,68.7321756074083,Q >= newx1High,L03-010_slice2
+High,Chub,Adult,Depth,L03-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1High,L03-010_slice2
+Low,Chub,Adult,Velocity,L03-010,210422_San_Juan_Existing_Conditions,slice2,2.54,1.02597226781067,Q >= min_limit & Q <= newx1Low,L03-010_slice2
+Low,Chub,Adult,Velocity,L03-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L03-010_slice2
+Med,Chub,Adult,Velocity,L03-010,210422_San_Juan_Existing_Conditions,slice2,0,0.129694094075701,Q >= newx1Med[1] & Q <= newx1Med[2],L03-010_slice2
+Med,Chub,Adult,Velocity,L03-010,210422_San_Juan_Existing_Conditions,slice2,1.58,0.872198161475097,Q >= newx1Med[1] & Q <= newx1Med[2],L03-010_slice2
+High,Chub,Adult,Velocity,L03-010,210422_San_Juan_Existing_Conditions,slice2,0.01,0.261772267128053,Q >= newx1High[1] & Q <= newx1High[2],L03-010_slice2
+High,Chub,Adult,Velocity,L03-010,210422_San_Juan_Existing_Conditions,slice2,1.15,0.740116275989225,Q >= newx1High[1] & Q <= newx1High[2],L03-010_slice2
+Low,Chub,Adult,Depth,L03-011,210422_San_Juan_Existing_Conditions,slice1,0.48,37.6583822208871,Q >= newx1Low,L03-011_slice1
+Low,Chub,Adult,Depth,L03-011,210422_San_Juan_Existing_Conditions,slice1,NA,NA,Q >= newx1Low,L03-011_slice1
+Med,Chub,Adult,Depth,L03-011,210422_San_Juan_Existing_Conditions,slice1,1.03,53.1892758329971,Q >= newx1Med,L03-011_slice1
+Med,Chub,Adult,Depth,L03-011,210422_San_Juan_Existing_Conditions,slice1,NA,NA,Q >= newx1Med,L03-011_slice1
+High,Chub,Adult,Depth,L03-011,210422_San_Juan_Existing_Conditions,slice1,1.98,68.7201707600829,Q >= newx1High,L03-011_slice1
+High,Chub,Adult,Depth,L03-011,210422_San_Juan_Existing_Conditions,slice1,NA,NA,Q >= newx1High,L03-011_slice1
+Low,Chub,Adult,Velocity,L03-011,210422_San_Juan_Existing_Conditions,slice1,11.78,1.0145596473295,Q >= min_limit & Q <= newx1Low,L03-011_slice1
+Low,Chub,Adult,Velocity,L03-011,210422_San_Juan_Existing_Conditions,slice1,NA,NA,Q >= min_limit & Q <= newx1Low,L03-011_slice1
+Med,Chub,Adult,Velocity,L03-011,210422_San_Juan_Existing_Conditions,slice1,0.02,0.135162205842548,Q >= newx1Med[1] & Q <= newx1Med[2],L03-011_slice1
+Med,Chub,Adult,Velocity,L03-011,210422_San_Juan_Existing_Conditions,slice1,7.04,0.866726360427874,Q >= newx1Med[1] & Q <= newx1Med[2],L03-011_slice1
+High,Chub,Adult,Velocity,L03-011,210422_San_Juan_Existing_Conditions,slice1,0.16,0.264616613756085,Q >= newx1High[1] & Q <= newx1High[2],L03-011_slice1
+High,Chub,Adult,Velocity,L03-011,210422_San_Juan_Existing_Conditions,slice1,4.12,0.737271875507461,Q >= newx1High[1] & Q <= newx1High[2],L03-011_slice1
+Low,Chub,Adult,Depth,L03-020,210422_San_Juan_Existing_Conditions,slice2,2.64,37.6583815796609,Q >= newx1Low,L03-020_slice2
+Low,Chub,Adult,Depth,L03-020,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L03-020_slice2
+Med,Chub,Adult,Depth,L03-020,210422_San_Juan_Existing_Conditions,slice2,6.15,53.1892758330429,Q >= newx1Med,L03-020_slice2
+Med,Chub,Adult,Depth,L03-020,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L03-020_slice2
+High,Chub,Adult,Depth,L03-020,210422_San_Juan_Existing_Conditions,slice2,11.48,68.7201919160723,Q >= newx1High,L03-020_slice2
+High,Chub,Adult,Depth,L03-020,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1High,L03-020_slice2
+Low,Chub,Adult,Velocity,L03-020,210422_San_Juan_Existing_Conditions,slice2,0.11,1.03371546655381,Q >= min_limit & Q <= newx1Low,L03-020_slice2
+Low,Chub,Adult,Velocity,L03-020,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L03-020_slice2
+Med,Chub,Adult,Velocity,L03-020,210422_San_Juan_Existing_Conditions,slice2,0.08,0.883067852155535,Q >= min_limit & Q <= newx1Med,L03-020_slice2
+Med,Chub,Adult,Velocity,L03-020,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Med,L03-020_slice2
+High,Chub,Adult,Velocity,L03-020,210422_San_Juan_Existing_Conditions,slice2,0.06,0.756668716048778,Q >= min_limit & Q <= newx1High,L03-020_slice2
+High,Chub,Adult,Velocity,L03-020,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1High,L03-020_slice2
+Low,Chub,Adult,Depth,L03-030,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q < 0,L03-030_slice3
+Med,Chub,Adult,Depth,L03-030,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q < 0,L03-030_slice3
+High,Chub,Adult,Depth,L03-030,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q < 0,L03-030_slice3
+Low,Chub,Adult,Velocity,L03-030,210422_San_Juan_Existing_Conditions,slice3,0.23,1.02614819416661,Q >= min_limit & Q <= newx1Low,L03-030_slice3
+Low,Chub,Adult,Velocity,L03-030,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1Low,L03-030_slice3
+Med,Chub,Adult,Velocity,L03-030,210422_San_Juan_Existing_Conditions,slice3,0.16,0.872496256072674,Q >= min_limit & Q <= newx1Med,L03-030_slice3
+Med,Chub,Adult,Velocity,L03-030,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1Med,L03-030_slice3
+High,Chub,Adult,Velocity,L03-030,210422_San_Juan_Existing_Conditions,slice3,0.05,0.740611158351021,Q >= newx1High[1] & Q <= newx1High[2],L03-030_slice3
+High,Chub,Adult,Velocity,L03-030,210422_San_Juan_Existing_Conditions,slice3,0.12,0.740611158351021,Q >= newx1High[1] & Q <= newx1High[2],L03-030_slice3
+Low,Chub,Adult,Depth,L04-010,210422_San_Juan_Existing_Conditions,slice2,0.9,37.6583810397916,Q >= newx1Low,L04-010_slice2
+Low,Chub,Adult,Depth,L04-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L04-010_slice2
+Med,Chub,Adult,Depth,L04-010,210422_San_Juan_Existing_Conditions,slice2,2.13,53.1892758329816,Q >= newx1Med,L04-010_slice2
+Med,Chub,Adult,Depth,L04-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L04-010_slice2
+High,Chub,Adult,Depth,L04-010,210422_San_Juan_Existing_Conditions,slice2,4.28,68.7201922976991,Q >= newx1High,L04-010_slice2
+High,Chub,Adult,Depth,L04-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1High,L04-010_slice2
+Low,Chub,Adult,Velocity,L04-010,210422_San_Juan_Existing_Conditions,slice2,1.39,1.02597129080389,Q >= min_limit & Q <= newx1Low,L04-010_slice2
+Low,Chub,Adult,Velocity,L04-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L04-010_slice2
+Med,Chub,Adult,Velocity,L04-010,210422_San_Juan_Existing_Conditions,slice2,0.69,0.872194466338603,Q <= newx1Med[1] & Q >= newx1Med[2],L04-010_slice2
+Med,Chub,Adult,Velocity,L04-010,210422_San_Juan_Existing_Conditions,slice2,0.86,0.872194466338603,Q <= newx1Med[1] & Q >= newx1Med[2],L04-010_slice2
+High,Chub,Adult,Velocity,L04-010,210422_San_Juan_Existing_Conditions,slice2,0.02,0.26177227580717,Q >= newx1High[1] & Q <= newx1High[2],L04-010_slice2
+High,Chub,Adult,Velocity,L04-010,210422_San_Juan_Existing_Conditions,slice2,0.5,0.740116263424695,Q >= newx1High[1] & Q <= newx1High[2],L04-010_slice2
+Low,Chub,Adult,Depth,L05-010,210422_San_Juan_Existing_Conditions,slice2,0.85,37.658382270634,Q >= newx1Low,L05-010_slice2
+Low,Chub,Adult,Depth,L05-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Low,L05-010_slice2
+Med,Chub,Adult,Depth,L05-010,210422_San_Juan_Existing_Conditions,slice2,1.85,53.1892758330095,Q >= newx1Med,L05-010_slice2
+Med,Chub,Adult,Depth,L05-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1Med,L05-010_slice2
+High,Chub,Adult,Depth,L05-010,210422_San_Juan_Existing_Conditions,slice2,3.31,68.7201716276921,Q >= newx1High,L05-010_slice2
+High,Chub,Adult,Depth,L05-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= newx1High,L05-010_slice2
+Low,Chub,Adult,Velocity,L05-010,210422_San_Juan_Existing_Conditions,slice2,0.53,1.02597131711772,Q >= min_limit & Q <= newx1Low,L05-010_slice2
+Low,Chub,Adult,Velocity,L05-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,L05-010_slice2
+Med,Chub,Adult,Velocity,L05-010,210422_San_Juan_Existing_Conditions,slice2,0.35,0.872194489184003,Q >= min_limit & Q <= newx1Med,L05-010_slice2
+Med,Chub,Adult,Velocity,L05-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1Med,L05-010_slice2
+High,Chub,Adult,Velocity,L05-010,210422_San_Juan_Existing_Conditions,slice2,0.23,0.740116256234989,Q >= min_limit & Q <= newx1High,L05-010_slice2
+High,Chub,Adult,Velocity,L05-010,210422_San_Juan_Existing_Conditions,slice2,NA,NA,Q >= min_limit & Q <= newx1High,L05-010_slice2
+Low,Chub,Adult,Depth,L05-020,210422_San_Juan_Existing_Conditions,slice3,1.44,37.6583822253199,Q >= newx1Low,L05-020_slice3
+Low,Chub,Adult,Depth,L05-020,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1Low,L05-020_slice3
+Med,Chub,Adult,Depth,L05-020,210422_San_Juan_Existing_Conditions,slice3,4.09,53.189275873714,Q >= newx1Med,L05-020_slice3
+Med,Chub,Adult,Depth,L05-020,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1Med,L05-020_slice3
+High,Chub,Adult,Depth,L05-020,210422_San_Juan_Existing_Conditions,slice3,7.97,68.7212130123378,Q >= newx1High,L05-020_slice3
+High,Chub,Adult,Depth,L05-020,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= newx1High,L05-020_slice3
+Low,Chub,Adult,Velocity,L05-020,210422_San_Juan_Existing_Conditions,slice3,0.67,1.02597129488616,Q >= min_limit & Q <= newx1Low,L05-020_slice3
+Low,Chub,Adult,Velocity,L05-020,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1Low,L05-020_slice3
+Med,Chub,Adult,Velocity,L05-020,210422_San_Juan_Existing_Conditions,slice3,0.41,0.87219443422045,Q >= min_limit & Q <= newx1Med,L05-020_slice3
+Med,Chub,Adult,Velocity,L05-020,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1Med,L05-020_slice3
+High,Chub,Adult,Velocity,L05-020,210422_San_Juan_Existing_Conditions,slice3,0.16,0.740116264022261,Q >= min_limit & Q <= newx1High,L05-020_slice3
+High,Chub,Adult,Velocity,L05-020,210422_San_Juan_Existing_Conditions,slice3,NA,NA,Q >= min_limit & Q <= newx1High,L05-020_slice3
+Low,Chub,Adult,Depth,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,2.25,37.6583823170584,Q >= newx1Low,M01-011_slice2
+Low,Chub,Adult,Depth,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Low,M01-011_slice2
+Med,Chub,Adult,Depth,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,4.91,53.1892758329575,Q >= newx1Med,M01-011_slice2
+Med,Chub,Adult,Depth,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Med,M01-011_slice2
+High,Chub,Adult,Depth,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,8.63,68.7201718364592,Q >= newx1High,M01-011_slice2
+High,Chub,Adult,Depth,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1High,M01-011_slice2
+Low,Chub,Adult,Velocity,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,1.26,1.02597129575277,Q >= min_limit & Q <= newx1Low,M01-011_slice2
+Low,Chub,Adult,Velocity,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Low,M01-011_slice2
+Med,Chub,Adult,Velocity,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.79,0.872194436522737,Q >= min_limit & Q <= newx1Med,M01-011_slice2
+Med,Chub,Adult,Velocity,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Med,M01-011_slice2
+High,Chub,Adult,Velocity,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.04,0.261772275798024,Q >= newx1High[1] & Q <= newx1High[2],M01-011_slice2
+High,Chub,Adult,Velocity,M01-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.51,0.740116263569386,Q >= newx1High[1] & Q <= newx1High[2],M01-011_slice2
+Low,Chub,Adult,Depth,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,1.63,37.6583819589019,Q >= newx1Low,M01-020_slice2
+Low,Chub,Adult,Depth,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Low,M01-020_slice2
+Med,Chub,Adult,Depth,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q < 0,M01-020_slice2
+High,Chub,Adult,Depth,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q < 0,M01-020_slice2
+Low,Chub,Adult,Velocity,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.36,1.02597130987706,Q >= min_limit & Q <= newx1Low,M01-020_slice2
+Low,Chub,Adult,Velocity,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Low,M01-020_slice2
+Med,Chub,Adult,Velocity,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.19,0.872194433939893,Q <= newx1Med[1] & Q >= newx1Med[2],M01-020_slice2
+Med,Chub,Adult,Velocity,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.24,0.872194433939893,Q <= newx1Med[1] & Q >= newx1Med[2],M01-020_slice2
+High,Chub,Adult,Velocity,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.12,0.740116263139523,Q >= min_limit & Q <= newx1High,M01-020_slice2
+High,Chub,Adult,Velocity,M01-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1High,M01-020_slice2
+Low,Chub,Adult,Depth,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,2.69,37.6583387043623,Q >= newx1Low,M02-011_slice3
+Low,Chub,Adult,Depth,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= newx1Low,M02-011_slice3
+Med,Chub,Adult,Depth,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,5.55,53.1892758261751,Q >= newx1Med,M02-011_slice3
+Med,Chub,Adult,Depth,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= newx1Med,M02-011_slice3
+High,Chub,Adult,Depth,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,9.59,68.7206208916795,Q >= newx1High,M02-011_slice3
+High,Chub,Adult,Depth,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= newx1High,M02-011_slice3
+Low,Chub,Adult,Velocity,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,1.73,1.02597132119725,Q >= min_limit & Q <= newx1Low,M02-011_slice3
+Low,Chub,Adult,Velocity,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= min_limit & Q <= newx1Low,M02-011_slice3
+Med,Chub,Adult,Velocity,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,1.1,0.872194578417546,Q >= min_limit & Q <= newx1Med,M02-011_slice3
+Med,Chub,Adult,Velocity,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,NA,NA,Q >= min_limit & Q <= newx1Med,M02-011_slice3
+High,Chub,Adult,Velocity,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,0.04,0.261772275841809,Q >= newx1High[1] & Q <= newx1High[2],M02-011_slice3
+High,Chub,Adult,Velocity,M02-011,"201118_Oso,_Small_Creeks_Existing_Conditions",slice3,0.78,0.74011622753206,Q >= newx1High[1] & Q <= newx1High[2],M02-011_slice3
+Low,Chub,Adult,Depth,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,2.14,37.6583773871915,Q >= newx1Low,M02-020_slice2
+Low,Chub,Adult,Depth,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Low,M02-020_slice2
+Med,Chub,Adult,Depth,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,6,53.1892757757257,Q >= newx1Med,M02-020_slice2
+Med,Chub,Adult,Depth,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1Med,M02-020_slice2
+High,Chub,Adult,Depth,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,13.26,68.720174134637,Q >= newx1High,M02-020_slice2
+High,Chub,Adult,Depth,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= newx1High,M02-020_slice2
+Low,Chub,Adult,Velocity,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.61,1.02597137285225,Q >= min_limit & Q <= newx1Low,M02-020_slice2
+Low,Chub,Adult,Velocity,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Low,M02-020_slice2
+Med,Chub,Adult,Velocity,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.44,0.872194434799171,Q >= min_limit & Q <= newx1Med,M02-020_slice2
+Med,Chub,Adult,Velocity,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1Med,M02-020_slice2
+High,Chub,Adult,Velocity,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,0.34,0.740116257712435,Q >= min_limit & Q <= newx1High,M02-020_slice2
+High,Chub,Adult,Velocity,M02-020,"201118_Oso,_Small_Creeks_Existing_Conditions",slice2,NA,NA,Q >= min_limit & Q <= newx1High,M02-020_slice2
+Low,Chub,Adult,Depth,J01-010,201105_Aliso_Recalibration_Update,slice2,4.5,37.6583808469684,Q >= newx1Low,J01-010_slice2
+Low,Chub,Adult,Depth,J01-010,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Low,J01-010_slice2
+Med,Chub,Adult,Depth,J01-010,201105_Aliso_Recalibration_Update,slice2,9.71,53.1892758330079,Q >= newx1Med,J01-010_slice2
+Med,Chub,Adult,Depth,J01-010,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Med,J01-010_slice2
+High,Chub,Adult,Depth,J01-010,201105_Aliso_Recalibration_Update,slice2,16.62,68.7201722730897,Q >= newx1High,J01-010_slice2
+High,Chub,Adult,Depth,J01-010,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1High,J01-010_slice2
+Low,Chub,Adult,Velocity,J01-010,201105_Aliso_Recalibration_Update,slice2,34.38,0.91907234226991,Q >= min_limit & Q <= newx1Low,J01-010_slice2
+Low,Chub,Adult,Velocity,J01-010,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,J01-010_slice2
+Med,Chub,Adult,Velocity,J01-010,201105_Aliso_Recalibration_Update,slice2,0.25,0.187470080892394,Q >= newx1Med[1] & Q <= newx1Med[2],J01-010_slice2
+Med,Chub,Adult,Velocity,J01-010,201105_Aliso_Recalibration_Update,slice2,24.33,0.814418455346369,Q >= newx1Med[1] & Q <= newx1Med[2],J01-010_slice2
+High,Chub,Adult,Velocity,J01-010,201105_Aliso_Recalibration_Update,slice2,1.13,0.293282204597895,Q >= newx1High[1] & Q <= newx1High[2],J01-010_slice2
+High,Chub,Adult,Velocity,J01-010,201105_Aliso_Recalibration_Update,slice2,16.35,0.708606320427182,Q >= newx1High[1] & Q <= newx1High[2],J01-010_slice2
+Low,Chub,Adult,Depth,J01-020,201105_Aliso_Recalibration_Update,slice3,1.37,37.6583823289641,Q >= newx1Low,J01-020_slice3
+Low,Chub,Adult,Depth,J01-020,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= newx1Low,J01-020_slice3
+Med,Chub,Adult,Depth,J01-020,201105_Aliso_Recalibration_Update,slice3,3.42,53.1892758331836,Q >= newx1Med,J01-020_slice3
+Med,Chub,Adult,Depth,J01-020,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= newx1Med,J01-020_slice3
+High,Chub,Adult,Depth,J01-020,201105_Aliso_Recalibration_Update,slice3,7.04,68.7201725161818,Q >= newx1High,J01-020_slice3
+High,Chub,Adult,Depth,J01-020,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= newx1High,J01-020_slice3
+Low,Chub,Adult,Velocity,J01-020,201105_Aliso_Recalibration_Update,slice3,1.29,1.02597129135121,Q >= min_limit & Q <= newx1Low,J01-020_slice3
+Low,Chub,Adult,Velocity,J01-020,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= min_limit & Q <= newx1Low,J01-020_slice3
+Med,Chub,Adult,Velocity,J01-020,201105_Aliso_Recalibration_Update,slice3,0.67,0.87219443780263,Q >= min_limit & Q <= newx1Med,J01-020_slice3
+Med,Chub,Adult,Velocity,J01-020,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= min_limit & Q <= newx1Med,J01-020_slice3
+High,Chub,Adult,Velocity,J01-020,201105_Aliso_Recalibration_Update,slice3,0.46,0.74011626410184606,Q >= min_limit & Q <= newx1High,J01-020_slice3
+High,Chub,Adult,Velocity,J01-020,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= min_limit & Q <= newx1High,J01-020_slice3
+Low,Chub,Adult,Depth,J01-030,201105_Aliso_Recalibration_Update,slice3,2.59,37.6583268746491,Q >= newx1Low,J01-030_slice3
+Low,Chub,Adult,Depth,J01-030,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= newx1Low,J01-030_slice3
+Med,Chub,Adult,Depth,J01-030,201105_Aliso_Recalibration_Update,slice3,5.72,53.1892754744388,Q >= newx1Med,J01-030_slice3
+Med,Chub,Adult,Depth,J01-030,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= newx1Med,J01-030_slice3
+High,Chub,Adult,Depth,J01-030,201105_Aliso_Recalibration_Update,slice3,10,68.7228667567544,Q >= newx1High,J01-030_slice3
+High,Chub,Adult,Depth,J01-030,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= newx1High,J01-030_slice3
+Low,Chub,Adult,Velocity,J01-030,201105_Aliso_Recalibration_Update,slice3,0.13,1.02597129641805,Q <= newx1Low[1] & Q >= newx1Low[2],J01-030_slice3
+Low,Chub,Adult,Velocity,J01-030,201105_Aliso_Recalibration_Update,slice3,0.19,1.02597129641805,Q <= newx1Low[1] & Q >= newx1Low[2],J01-030_slice3
+Med,Chub,Adult,Velocity,J01-030,201105_Aliso_Recalibration_Update,slice3,0.09,0.872194433744548,Q >= min_limit & Q <= newx1Med,J01-030_slice3
+Med,Chub,Adult,Velocity,J01-030,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= min_limit & Q <= newx1Med,J01-030_slice3
+High,Chub,Adult,Velocity,J01-030,201105_Aliso_Recalibration_Update,slice3,0.06,0.740116257817705,Q >= min_limit & Q <= newx1High,J01-030_slice3
+High,Chub,Adult,Velocity,J01-030,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= min_limit & Q <= newx1High,J01-030_slice3
+Low,Chub,Adult,Depth,J01-031,201105_Aliso_Recalibration_Update,slice2,2.03,37.6582897665177,Q >= newx1Low,J01-031_slice2
+Low,Chub,Adult,Depth,J01-031,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Low,J01-031_slice2
+Med,Chub,Adult,Depth,J01-031,201105_Aliso_Recalibration_Update,slice2,4.72,53.1923247236664,Q >= newx1Med,J01-031_slice2
+Med,Chub,Adult,Depth,J01-031,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Med,J01-031_slice2
+High,Chub,Adult,Depth,J01-031,201105_Aliso_Recalibration_Update,slice2,9.34,70.6737551167396,Q >= newx1High,J01-031_slice2
+High,Chub,Adult,Depth,J01-031,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1High,J01-031_slice2
+Low,Chub,Adult,Velocity,J01-031,201105_Aliso_Recalibration_Update,slice2,0.77,1.02597251219119,Q >= min_limit & Q <= newx1Low,J01-031_slice2
+Low,Chub,Adult,Velocity,J01-031,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,J01-031_slice2
+Med,Chub,Adult,Velocity,J01-031,201105_Aliso_Recalibration_Update,slice2,0,0.129694075033471,Q >= newx1Med[1] & Q <= newx1Med[2],J01-031_slice2
+Med,Chub,Adult,Velocity,J01-031,201105_Aliso_Recalibration_Update,slice2,0.51,0.87219451135996,Q >= newx1Med[1] & Q <= newx1Med[2],J01-031_slice2
+High,Chub,Adult,Velocity,J01-031,201105_Aliso_Recalibration_Update,slice2,0.01,0.261772234354737,Q >= newx1High[1] & Q <= newx1High[2],J01-031_slice2
+High,Chub,Adult,Velocity,J01-031,201105_Aliso_Recalibration_Update,slice2,0.35,0.740116304112083,Q >= newx1High[1] & Q <= newx1High[2],J01-031_slice2
+Low,Chub,Adult,Depth,J01-040,201105_Aliso_Recalibration_Update,slice4,1.32,37.6583823727618,Q >= newx1Low,J01-040_slice4
+Low,Chub,Adult,Depth,J01-040,201105_Aliso_Recalibration_Update,slice4,NA,NA,Q >= newx1Low,J01-040_slice4
+Med,Chub,Adult,Depth,J01-040,201105_Aliso_Recalibration_Update,slice4,2.9,53.1892758179659,Q >= newx1Med,J01-040_slice4
+Med,Chub,Adult,Depth,J01-040,201105_Aliso_Recalibration_Update,slice4,NA,NA,Q >= newx1Med,J01-040_slice4
+High,Chub,Adult,Depth,J01-040,201105_Aliso_Recalibration_Update,slice4,5.01,68.7202142538347,Q >= newx1High,J01-040_slice4
+High,Chub,Adult,Depth,J01-040,201105_Aliso_Recalibration_Update,slice4,NA,NA,Q >= newx1High,J01-040_slice4
+Low,Chub,Adult,Velocity,J01-040,201105_Aliso_Recalibration_Update,slice4,7.18,1.02597149476266,Q >= min_limit & Q <= newx1Low,J01-040_slice4
+Low,Chub,Adult,Velocity,J01-040,201105_Aliso_Recalibration_Update,slice4,NA,NA,Q >= min_limit & Q <= newx1Low,J01-040_slice4
+Med,Chub,Adult,Velocity,J01-040,201105_Aliso_Recalibration_Update,slice4,4.62,0.872194435855747,Q <= newx1Med[1] & Q >= newx1Med[2],J01-040_slice4
+Med,Chub,Adult,Velocity,J01-040,201105_Aliso_Recalibration_Update,slice4,5.11,0.872194435855747,Q <= newx1Med[1] & Q >= newx1Med[2],J01-040_slice4
+High,Chub,Adult,Velocity,J01-040,201105_Aliso_Recalibration_Update,slice4,0.07,0.261772275348873,Q >= newx1High[1] & Q <= newx1High[2],J01-040_slice4
+High,Chub,Adult,Velocity,J01-040,201105_Aliso_Recalibration_Update,slice4,3.23,0.740116264551993,Q >= newx1High[1] & Q <= newx1High[2],J01-040_slice4
+Low,Chub,Adult,Depth,J01-041,201105_Aliso_Recalibration_Update,slice2,2.42,37.6583821687001,Q >= newx1Low,J01-041_slice2
+Low,Chub,Adult,Depth,J01-041,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Low,J01-041_slice2
+Med,Chub,Adult,Depth,J01-041,201105_Aliso_Recalibration_Update,slice2,5.15,53.1892758337947,Q >= newx1Med,J01-041_slice2
+Med,Chub,Adult,Depth,J01-041,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Med,J01-041_slice2
+High,Chub,Adult,Depth,J01-041,201105_Aliso_Recalibration_Update,slice2,8.86,68.7201746166848,Q >= newx1High,J01-041_slice2
+High,Chub,Adult,Depth,J01-041,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1High,J01-041_slice2
+Low,Chub,Adult,Velocity,J01-041,201105_Aliso_Recalibration_Update,slice2,2.52,1.02597131635656,Q >= min_limit & Q <= newx1Low,J01-041_slice2
+Low,Chub,Adult,Velocity,J01-041,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,J01-041_slice2
+Med,Chub,Adult,Velocity,J01-041,201105_Aliso_Recalibration_Update,slice2,1.56,0.872194434369724,Q >= min_limit & Q <= newx1Med,J01-041_slice2
+Med,Chub,Adult,Velocity,J01-041,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Med,J01-041_slice2
+High,Chub,Adult,Velocity,J01-041,201105_Aliso_Recalibration_Update,slice2,0.04,0.261772275209831,Q >= newx1High[1] & Q <= newx1High[2],J01-041_slice2
+High,Chub,Adult,Velocity,J01-041,201105_Aliso_Recalibration_Update,slice2,1,0.740116257554617,Q >= newx1High[1] & Q <= newx1High[2],J01-041_slice2
+Low,Chub,Adult,Depth,J01-060,201105_Aliso_Recalibration_Update,slice2,1.91,37.6583822917485,Q >= newx1Low,J01-060_slice2
+Low,Chub,Adult,Depth,J01-060,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Low,J01-060_slice2
+Med,Chub,Adult,Depth,J01-060,201105_Aliso_Recalibration_Update,slice2,4.56,53.189275834013,Q >= newx1Med,J01-060_slice2
+Med,Chub,Adult,Depth,J01-060,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Med,J01-060_slice2
+High,Chub,Adult,Depth,J01-060,201105_Aliso_Recalibration_Update,slice2,8.3,68.7201724250996,Q >= newx1High,J01-060_slice2
+High,Chub,Adult,Depth,J01-060,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1High,J01-060_slice2
+Low,Chub,Adult,Velocity,J01-060,201105_Aliso_Recalibration_Update,slice2,0.76,1.02597132432003,Q >= min_limit & Q <= newx1Low,J01-060_slice2
+Low,Chub,Adult,Velocity,J01-060,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,J01-060_slice2
+Med,Chub,Adult,Velocity,J01-060,201105_Aliso_Recalibration_Update,slice2,0.55,0.872194442534375,Q >= min_limit & Q <= newx1Med,J01-060_slice2
+Med,Chub,Adult,Velocity,J01-060,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Med,J01-060_slice2
+High,Chub,Adult,Velocity,J01-060,201105_Aliso_Recalibration_Update,slice2,0.29,0.740116254932159,Q >= min_limit & Q <= newx1High,J01-060_slice2
+High,Chub,Adult,Velocity,J01-060,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1High,J01-060_slice2
+Low,Chub,Adult,Depth,J01-061,201105_Aliso_Recalibration_Update,slice2,1.29,37.6583547036186,Q >= newx1Low,J01-061_slice2
+Low,Chub,Adult,Depth,J01-061,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Low,J01-061_slice2
+Med,Chub,Adult,Depth,J01-061,201105_Aliso_Recalibration_Update,slice2,2.51,53.1892758329883,Q >= newx1Med,J01-061_slice2
+Med,Chub,Adult,Depth,J01-061,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Med,J01-061_slice2
+High,Chub,Adult,Depth,J01-061,201105_Aliso_Recalibration_Update,slice2,4.09,68.720250055672,Q >= newx1High,J01-061_slice2
+High,Chub,Adult,Depth,J01-061,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1High,J01-061_slice2
+Low,Chub,Adult,Velocity,J01-061,201105_Aliso_Recalibration_Update,slice2,2.79,1.02597140628461,Q >= min_limit & Q <= newx1Low,J01-061_slice2
+Low,Chub,Adult,Velocity,J01-061,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,J01-061_slice2
+Med,Chub,Adult,Velocity,J01-061,201105_Aliso_Recalibration_Update,slice2,0.02,0.12969409709678,Q >= newx1Med[1] & Q <= newx1Med[2],J01-061_slice2
+Med,Chub,Adult,Velocity,J01-061,201105_Aliso_Recalibration_Update,slice2,1.87,0.872194600602122,Q >= newx1Med[1] & Q <= newx1Med[2],J01-061_slice2
+High,Chub,Adult,Velocity,J01-061,201105_Aliso_Recalibration_Update,slice2,0.08,0.261772280357283,Q >= newx1High[1] & Q <= newx1High[2],J01-061_slice2
+High,Chub,Adult,Velocity,J01-061,201105_Aliso_Recalibration_Update,slice2,1.26,0.740116271394811,Q >= newx1High[1] & Q <= newx1High[2],J01-061_slice2
+Low,Chub,Adult,Depth,J01-090,201105_Aliso_Recalibration_Update,slice2,1.76,37.6583817552691,Q >= newx1Low,J01-090_slice2
+Low,Chub,Adult,Depth,J01-090,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Low,J01-090_slice2
+Med,Chub,Adult,Depth,J01-090,201105_Aliso_Recalibration_Update,slice2,3.42,53.1892764502674,Q >= newx1Med,J01-090_slice2
+Med,Chub,Adult,Depth,J01-090,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Med,J01-090_slice2
+High,Chub,Adult,Depth,J01-090,201105_Aliso_Recalibration_Update,slice2,5.56,68.7237573126074,Q >= newx1High,J01-090_slice2
+High,Chub,Adult,Depth,J01-090,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1High,J01-090_slice2
+Low,Chub,Adult,Velocity,J01-090,201105_Aliso_Recalibration_Update,slice2,0.68,1.02597131519621,Q >= min_limit & Q <= newx1Low,J01-090_slice2
+Low,Chub,Adult,Velocity,J01-090,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,J01-090_slice2
+Med,Chub,Adult,Velocity,J01-090,201105_Aliso_Recalibration_Update,slice2,0.01,0.12969410236266599,Q >= newx1Med[1] & Q <= newx1Med[2],J01-090_slice2
+Med,Chub,Adult,Velocity,J01-090,201105_Aliso_Recalibration_Update,slice2,0.47,0.872194445010506,Q >= newx1Med[1] & Q <= newx1Med[2],J01-090_slice2
+High,Chub,Adult,Velocity,J01-090,201105_Aliso_Recalibration_Update,slice2,0.02,0.261772275790701,Q >= newx1High[1] & Q <= newx1High[2],J01-090_slice2
+High,Chub,Adult,Velocity,J01-090,201105_Aliso_Recalibration_Update,slice2,0.29,0.740116261849832,Q >= newx1High[1] & Q <= newx1High[2],J01-090_slice2
+Low,Chub,Adult,Depth,J01-091,201105_Aliso_Recalibration_Update,slice2,6.7,37.6325245172022,Q >= newx1Low,J01-091_slice2
+Low,Chub,Adult,Depth,J01-091,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Low,J01-091_slice2
+Med,Chub,Adult,Depth,J01-091,201105_Aliso_Recalibration_Update,slice2,13.51,53.0594977410674,Q >= newx1Med,J01-091_slice2
+Med,Chub,Adult,Depth,J01-091,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Med,J01-091_slice2
+High,Chub,Adult,Depth,J01-091,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q < 0,J01-091_slice2
+Low,Chub,Adult,Velocity,J01-091,201105_Aliso_Recalibration_Update,slice2,0.46,1.02597128906673,Q >= min_limit & Q <= newx1Low,J01-091_slice2
+Low,Chub,Adult,Velocity,J01-091,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,J01-091_slice2
+Med,Chub,Adult,Velocity,J01-091,201105_Aliso_Recalibration_Update,slice2,0,0.12969410236517,Q >= newx1Med[1] & Q <= newx1Med[2],J01-091_slice2
+Med,Chub,Adult,Velocity,J01-091,201105_Aliso_Recalibration_Update,slice2,0.32,0.872194466102697,Q >= newx1Med[1] & Q <= newx1Med[2],J01-091_slice2
+High,Chub,Adult,Velocity,J01-091,201105_Aliso_Recalibration_Update,slice2,0,0.261772275797953,Q >= newx1High[1] & Q <= newx1High[2],J01-091_slice2
+High,Chub,Adult,Velocity,J01-091,201105_Aliso_Recalibration_Update,slice2,0.19,0.740116262572774,Q >= newx1High[1] & Q <= newx1High[2],J01-091_slice2
+Low,Chub,Adult,Depth,J01-100,201105_Aliso_Recalibration_Update,slice2,5.87,37.6583629558949,Q >= newx1Low,J01-100_slice2
+Low,Chub,Adult,Depth,J01-100,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Low,J01-100_slice2
+Med,Chub,Adult,Depth,J01-100,201105_Aliso_Recalibration_Update,slice2,11.83,53.1892758362648,Q >= newx1Med,J01-100_slice2
+Med,Chub,Adult,Depth,J01-100,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Med,J01-100_slice2
+High,Chub,Adult,Depth,J01-100,201105_Aliso_Recalibration_Update,slice2,19.63,68.7203097568634,Q >= newx1High,J01-100_slice2
+High,Chub,Adult,Depth,J01-100,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1High,J01-100_slice2
+Low,Chub,Adult,Velocity,J01-100,201105_Aliso_Recalibration_Update,slice2,0.46,1.02597129500823,Q >= min_limit & Q <= newx1Low,J01-100_slice2
+Low,Chub,Adult,Velocity,J01-100,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,J01-100_slice2
+Med,Chub,Adult,Velocity,J01-100,201105_Aliso_Recalibration_Update,slice2,0.04,0.124439213038861,Q >= newx1Med[1] & Q <= newx1Med[2],J01-100_slice2
+Med,Chub,Adult,Velocity,J01-100,201105_Aliso_Recalibration_Update,slice2,0.31,0.872194443538511,Q >= newx1Med[1] & Q <= newx1Med[2],J01-100_slice2
+High,Chub,Adult,Velocity,J01-100,201105_Aliso_Recalibration_Update,slice2,0.04,0.267853729442079,Q >= newx1High[1] & Q <= newx1High[2],J01-100_slice2
+High,Chub,Adult,Velocity,J01-100,201105_Aliso_Recalibration_Update,slice2,0.22,0.74011626290994,Q >= newx1High[1] & Q <= newx1High[2],J01-100_slice2
+Low,Chub,Adult,Depth,J03-010,201105_Aliso_Recalibration_Update,slice2,1.16,37.6583820518536,Q >= newx1Low,J03-010_slice2
+Low,Chub,Adult,Depth,J03-010,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Low,J03-010_slice2
+Med,Chub,Adult,Depth,J03-010,201105_Aliso_Recalibration_Update,slice2,2.61,53.1892758396028,Q >= newx1Med,J03-010_slice2
+Med,Chub,Adult,Depth,J03-010,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1Med,J03-010_slice2
+High,Chub,Adult,Depth,J03-010,201105_Aliso_Recalibration_Update,slice2,4.7,68.7201698016025,Q >= newx1High,J03-010_slice2
+High,Chub,Adult,Depth,J03-010,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= newx1High,J03-010_slice2
+Low,Chub,Adult,Velocity,J03-010,201105_Aliso_Recalibration_Update,slice2,1.13,1.02597128979699,Q >= min_limit & Q <= newx1Low,J03-010_slice2
+Low,Chub,Adult,Velocity,J03-010,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Low,J03-010_slice2
+Med,Chub,Adult,Velocity,J03-010,201105_Aliso_Recalibration_Update,slice2,0.77,0.872194439145843,Q >= min_limit & Q <= newx1Med,J03-010_slice2
+Med,Chub,Adult,Velocity,J03-010,201105_Aliso_Recalibration_Update,slice2,NA,NA,Q >= min_limit & Q <= newx1Med,J03-010_slice2
+High,Chub,Adult,Velocity,J03-010,201105_Aliso_Recalibration_Update,slice2,0.03,0.261772275660575,Q >= newx1High[1] & Q <= newx1High[2],J03-010_slice2
+High,Chub,Adult,Velocity,J03-010,201105_Aliso_Recalibration_Update,slice2,0.54,0.740116258309202,Q >= newx1High[1] & Q <= newx1High[2],J03-010_slice2
+Low,Chub,Adult,Depth,J04-010,201105_Aliso_Recalibration_Update,slice3,1.18,37.6583817790965,Q >= newx1Low,J04-010_slice3
+Low,Chub,Adult,Depth,J04-010,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= newx1Low,J04-010_slice3
+Med,Chub,Adult,Depth,J04-010,201105_Aliso_Recalibration_Update,slice3,3.47,53.1892758330192,Q >= newx1Med,J04-010_slice3
+Med,Chub,Adult,Depth,J04-010,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= newx1Med,J04-010_slice3
+High,Chub,Adult,Depth,J04-010,201105_Aliso_Recalibration_Update,slice3,6.89,68.7201727443217,Q >= newx1High,J04-010_slice3
+High,Chub,Adult,Depth,J04-010,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= newx1High,J04-010_slice3
+Low,Chub,Adult,Velocity,J04-010,201105_Aliso_Recalibration_Update,slice3,9.7,1.02597194898834,Q >= min_limit & Q <= newx1Low,J04-010_slice3
+Low,Chub,Adult,Velocity,J04-010,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= min_limit & Q <= newx1Low,J04-010_slice3
+Med,Chub,Adult,Velocity,J04-010,201105_Aliso_Recalibration_Update,slice3,5.98,0.872194447373127,Q >= min_limit & Q <= newx1Med,J04-010_slice3
+Med,Chub,Adult,Velocity,J04-010,201105_Aliso_Recalibration_Update,slice3,NA,NA,Q >= min_limit & Q <= newx1Med,J04-010_slice3
+High,Chub,Adult,Velocity,J04-010,201105_Aliso_Recalibration_Update,slice3,0.09,0.261772257486156,Q >= newx1High[1] & Q <= newx1High[2],J04-010_slice3
+High,Chub,Adult,Velocity,J04-010,201105_Aliso_Recalibration_Update,slice3,3.63,0.740116280392394,Q >= newx1High[1] & Q <= newx1High[2],J04-010_slice3
+Low,Chub,Adult,Depth,J05-010,201105_Aliso_Recalibration_Update,slice1,1.34,37.6583810335974,Q >= newx1Low,J05-010_slice1
+Low,Chub,Adult,Depth,J05-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= newx1Low,J05-010_slice1
+Med,Chub,Adult,Depth,J05-010,201105_Aliso_Recalibration_Update,slice1,3.25,53.1892758241663,Q >= newx1Med,J05-010_slice1
+Med,Chub,Adult,Depth,J05-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= newx1Med,J05-010_slice1
+High,Chub,Adult,Depth,J05-010,201105_Aliso_Recalibration_Update,slice1,6.05,68.720535279258,Q >= newx1High,J05-010_slice1
+High,Chub,Adult,Depth,J05-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= newx1High,J05-010_slice1
+Low,Chub,Adult,Velocity,J05-010,201105_Aliso_Recalibration_Update,slice1,1.77,1.02597214011297,Q >= min_limit & Q <= newx1Low,J05-010_slice1
+Low,Chub,Adult,Velocity,J05-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= min_limit & Q <= newx1Low,J05-010_slice1
+Med,Chub,Adult,Velocity,J05-010,201105_Aliso_Recalibration_Update,slice1,1.17,0.872194786202802,Q >= min_limit & Q <= newx1Med,J05-010_slice1
+Med,Chub,Adult,Velocity,J05-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= min_limit & Q <= newx1Med,J05-010_slice1
+High,Chub,Adult,Velocity,J05-010,201105_Aliso_Recalibration_Update,slice1,0.02,0.261772273040838,Q >= newx1High[1] & Q <= newx1High[2],J05-010_slice1
+High,Chub,Adult,Velocity,J05-010,201105_Aliso_Recalibration_Update,slice1,0.67,0.740116259133295,Q >= newx1High[1] & Q <= newx1High[2],J05-010_slice1
+Low,Chub,Adult,Depth,J07-010,201105_Aliso_Recalibration_Update,slice1,7.21,37.6562972152696,Q >= newx1Low,J07-010_slice1
+Low,Chub,Adult,Depth,J07-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= newx1Low,J07-010_slice1
+Med,Chub,Adult,Depth,J07-010,201105_Aliso_Recalibration_Update,slice1,14.24,53.1890545827271,Q >= newx1Med,J07-010_slice1
+Med,Chub,Adult,Depth,J07-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= newx1Med,J07-010_slice1
+High,Chub,Adult,Depth,J07-010,201105_Aliso_Recalibration_Update,slice1,23.19,68.7283805396193,Q >= newx1High,J07-010_slice1
+High,Chub,Adult,Depth,J07-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= newx1High,J07-010_slice1
+Low,Chub,Adult,Velocity,J07-010,201105_Aliso_Recalibration_Update,slice1,1.28,1.02597182991182,Q >= min_limit & Q <= newx1Low,J07-010_slice1
+Low,Chub,Adult,Velocity,J07-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= min_limit & Q <= newx1Low,J07-010_slice1
+Med,Chub,Adult,Velocity,J07-010,201105_Aliso_Recalibration_Update,slice1,0.87,0.872194444932896,Q >= min_limit & Q <= newx1Med,J07-010_slice1
+Med,Chub,Adult,Velocity,J07-010,201105_Aliso_Recalibration_Update,slice1,NA,NA,Q >= min_limit & Q <= newx1Med,J07-010_slice1
+High,Chub,Adult,Velocity,J07-010,201105_Aliso_Recalibration_Update,slice1,0.02,0.261772275805445,Q >= newx1High[1] & Q <= newx1High[2],J07-010_slice1
+High,Chub,Adult,Velocity,J07-010,201105_Aliso_Recalibration_Update,slice1,0.59,0.740116235618733,Q >= newx1High[1] & Q <= newx1High[2],J07-010_slice1
