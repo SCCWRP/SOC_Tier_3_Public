@@ -1,0 +1,19 @@
+Node,Reach,Species1,LifeStage,Species_Label,Species_Label2,Species,Probability,Lower Limit,Upper Limit,lowerlimit_cfs,upperlimit_cfs,Seasonal_Component,metric,Notes,Katie discussion,channel_geom
+201020,J01-020,Arroyo Chub,,Arroyo Chub,Arroyo Chub (Alternative Channel),Arroyo Chub,Med,0.454854646,0.56633694,16.06304,18,Dry-Season Baseflow,DS_Mag_50,"no upper limit, lower limit depth .53 m",,Restored
+201020,J01-020,Arroyo Chub,,Arroyo Chub,Arroyo Chub (Alternative Channel),Arroyo Chub,Med,0.454854646,0.56633694,16.06304,18,Wet-Season Baseflow,Wet_BFL_Mag_10,"no upper limit, lower limit depth .53 m",,Restored
+201020,J01-020,Willow,Adult,Willow Adult,Willow Adult (Alternative Channel),Willow - Adult,Threshold,0.002679451,0.454854646,0.09462393,16.06304,Wet-Season Baseflow,Wet_BFL_Mag_10,Q at 3 cm main channel depth to channel capacity,,Restored
+201020,J01-020,Willow,Adult,Willow Adult,Willow Adult (Alternative Channel),Willow - Adult,Threshold,0.002679451,0.454854646,0.09462393,16.06304,Dry-Season Baseflow,DS_Mag_50,Q at 3 cm main channel depth to channel capacity,,Restored
+201020,J01-020,Willow,Adult & Seedling,Willow Adult & Seedling,Willow Adult & Seedling (Alternative Channel),Willow - Adult & Seedling,Threshold,0.5082536,14.94899192,17.9488,527.91866,Spring Recession Flow,SP_Mag,Q at 10 cm inundation overbank to ref p90 (if > lower limit),,Restored
+201020,J01-020,Willow,Adult,Willow Adult,Willow Adult (Existing Channel),Willow - Adult,Threshold,0.003121225,0.333951387,0.110225029,11.79338178,Wet-Season Baseflow,Wet_BFL_Mag_10,Q at 3 cm main channel depth to channel capacity,,Current
+201020,J01-020,Willow,Adult,Willow Adult,Willow Adult (Existing Channel),Willow - Adult,Threshold,0.003121225,0.333951387,0.110225029,11.79338178,Dry-Season Baseflow,DS_Mag_50,Q at 3 cm main channel depth to channel capacity,,Current
+201020,J01-020,Willow,Adult & Seedling,Willow Adult & Seedling,Willow Adult & Seedling (Existing Channel),Willow - Adult & Seedling,Threshold,0.92068519,14.94899192,32.51369017,527.91866,Spring Recession Flow,SP_Mag,Q at 10 cm inundation overbank to ref p90 (if > lower limit),,Current
+201020,J01-020,Arroyo Chub,,Arroyo Chub,Arroyo Chub (Existing Channel),Arroyo Chub,Med,3.68119011,3.42,120.78,130,Dry-Season Baseflow,DS_Mag_50,"no upper limit, lower limit depth .53 m",,Current
+201020,J01-020,Arroyo Chub,,Arroyo Chub,Arroyo Chub (Existing Channel),Arroyo Chub,Med,3.68119011,3.42,120.78,130,Wet-Season Baseflow,Wet_BFL_Mag_10,"no upper limit, lower limit depth .53 m",,Current
+201020,J01-020,Current Flow,,Current Flow,Current Flow,Current Flow,,0.068207356,0.142115569,2.40872,5.018763892,Dry-Season Baseflow,DS_Mag_50,,,
+201020,J01-020,Reference Flow,,Reference Flow,Reference Flow,Reference Flow,,0.014721088,0.102411542,0.519870326,3.61662942,Dry-Season Baseflow,DS_Mag_50,,,
+201020,J01-020,Current Flow,,Current Flow,Current Flow,Current Flow,,0.101967968,0.179211321,3.600964761,6.328788,Wet-Season Baseflow,Wet_BFL_Mag_10,,,
+201020,J01-020,Reference Flow,,Reference Flow,Reference Flow,Reference Flow,,0.049786488,0.150637358,1.758193203,5.319708,Wet-Season Baseflow,Wet_BFL_Mag_10,,,
+201020,J01-020,Water Conservation,Water Conservation,Water Conservation,Water Conservation,Water Conservation,,0.04260213,0.101786606,1.50448,3.59456,Dry-Season Baseflow,DS_Mag_50,,,
+201020,J01-020,Water Conservation,Water Conservation,Water Conservation,Water Conservation,Water Conservation,,0.070697822,0.153911691,2.49667,5.43534,Wet-Season Baseflow,Wet_BFL_Mag_10,,,
+201020,J01-020,Current Flow,,Current Flow,Current Flow,Current Flow,,1.521847069,23.5824418,53.73642,832.69602,Spring Recession Flow,SP_Mag,,,
+201020,J01-020,Reference Flow,,Reference Flow,Reference Flow,Reference Flow,,0.09050354,14.95096743,3.19568,527.91866,Spring Recession Flow,SP_Mag,,,

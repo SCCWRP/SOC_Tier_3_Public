@@ -1,6 +1,5 @@
 # SOC_Tier_3_Public
 
-# SOC_Tier_3_New
 
 #  Code index
 

@@ -32,7 +32,7 @@ min_limit <- 0.01 ## define min limit for depth. can be changed
 ## upload hydraulic data
 setwd("/Volumes/Biology/San Juan WQIP_KTQ/Data/RawData/From_Geosyntec/South_OC_Flow_Ecology_for_SCCWRP/KTQ_hydraulics")
 indir <- "/Volumes/Biology/San Juan WQIP_KTQ/Data/RawData/From_Geosyntec/South_OC_Flow_Ecology_for_SCCWRP/KTQ_hydraulics/"
-f <- list.files() ## list climate scenario files
+f <- list.files() ## list files
 f <- f[c(1:2, 5:11)]
 f
 c=2
@@ -92,12 +92,12 @@ for(c in 1: length(f)) {
       mutate(prob_fit = ifelse(Depth_cm == 0, 0, prob_fit)) ## when depth is 0, prob is 0
     
     ## chub critical season is all year - for probs split into seasons
-    # non_critical <- c(1:3,10:12) ## winter months
-    critical <- c(1:12) ## summer months
+    summer <- c(1:3,10:12) ## winter months
+    winter <- c(4:9) ## summer months
     
     
     all_datax <- all_data %>%
-      mutate(season = ifelse(month %in% critical, "critical", "non_critical") ) %>%
+      mutate(season = ifelse(month %in% summer, "summer", "winter") ) %>%
       separate(variable, into = c("Hydraulic", "Position"), sep="_", remove = F) %>%
       mutate(Node = NodeName, Scenario = ScenName)
     
@@ -435,10 +435,12 @@ for(c in 1: length(f)) {
 # rm(all_data)
 ## function to scale probability
 range01 <- function(x){(x-min(x))/(max(x)-min(x))}
+f
+f[c]
 
-
-for(c in 1: length(f)) {
-  h
+for(c in 9: length(f)) {
+  
+  
   h <- list.files(f[c], pattern = "hydraulic") 
   ScenName <- paste(f[c])
   ScenName
@@ -450,7 +452,7 @@ for(c in 1: length(f)) {
     ## define nodename
     NodeName <- str_split(h[n], "_", 3)[[1]]
     NodeName <- NodeName[1]
-    NodeName
+    # NodeName
     hyd_dep <- hydraul %>%
       rename(Q = q.cms) %>%
       mutate(date_num = seq(1,length(date), 1))

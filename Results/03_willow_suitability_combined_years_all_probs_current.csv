@@ -1,271 +1,271 @@
-"","Species","LifeStage","Node","Metric","TimePeriod","SeasonalComponent","Scenario","Overall_Class"
-"1","Willow","Adult","I01-012","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"2","Willow","Adult","I01-012","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"3","Willow","Adult","I01-012","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"4","Willow","Adult","I01-012","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"5","Willow","Adult","I01-020","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"6","Willow","Adult","I01-020","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"7","Willow","Adult","I01-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"8","Willow","Adult","I01-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"9","Willow","Adult","J01-010","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"10","Willow","Adult","J01-010","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Low"
-"11","Willow","Adult","J01-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"12","Willow","Adult","J01-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Low"
-"13","Willow","Adult","J01-020","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"14","Willow","Adult","J01-020","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"15","Willow","Adult","J01-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"16","Willow","Adult","J01-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"17","Willow","Adult","J01-030","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"18","Willow","Adult","J01-030","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"19","Willow","Adult","J01-030","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"20","Willow","Adult","J01-030","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"21","Willow","Adult","J01-031","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"22","Willow","Adult","J01-031","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Low"
-"23","Willow","Adult","J01-031","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"24","Willow","Adult","J01-031","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Low"
-"25","Willow","Adult","J01-040","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","Partial"
-"26","Willow","Adult","J01-040","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"27","Willow","Adult","J01-040","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"28","Willow","Adult","J01-040","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Partial"
-"29","Willow","Adult","J01-041","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"30","Willow","Adult","J01-041","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"31","Willow","Adult","J01-041","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"32","Willow","Adult","J01-041","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"33","Willow","Adult","J01-060","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"34","Willow","Adult","J01-060","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"35","Willow","Adult","J01-060","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"36","Willow","Adult","J01-060","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"37","Willow","Adult","J01-061","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","Partial"
-"38","Willow","Adult","J01-061","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Partial"
-"39","Willow","Adult","J01-061","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"40","Willow","Adult","J01-061","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"41","Willow","Adult","J01-090","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"42","Willow","Adult","J01-090","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Low"
-"43","Willow","Adult","J01-090","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","Partial"
-"44","Willow","Adult","J01-090","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Low"
-"45","Willow","Adult","J01-091","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"46","Willow","Adult","J01-091","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"47","Willow","Adult","J01-091","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"48","Willow","Adult","J01-091","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"49","Willow","Adult","J01-100","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"50","Willow","Adult","J01-100","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"51","Willow","Adult","J01-100","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","Partial"
-"52","Willow","Adult","J01-100","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"53","Willow","Adult","J03-010","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"54","Willow","Adult","J03-010","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"55","Willow","Adult","J03-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"56","Willow","Adult","J03-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"57","Willow","Adult","J04-010","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"58","Willow","Adult","J04-010","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"59","Willow","Adult","J04-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"60","Willow","Adult","J04-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"61","Willow","Adult","J05-010","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","Partial"
-"62","Willow","Adult","J05-010","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"63","Willow","Adult","J05-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","High"
-"64","Willow","Adult","J05-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","High"
-"65","Willow","Adult","J07-010","DS_Mag_50","summer","Dry-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"66","Willow","Adult","J07-010","DS_Mag_50","summer","Dry-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Low"
-"67","Willow","Adult","J07-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201105_Aliso_Recalibration_Update","Low"
-"68","Willow","Adult","J07-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201111_Aliso_Water_Conservation_Scenario","Low"
-"69","Willow","Adult","K01-010","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"70","Willow","Adult","K01-010","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"71","Willow","Adult","K01-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"72","Willow","Adult","K01-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"73","Willow","Adult","K01-011","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"74","Willow","Adult","K01-011","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"75","Willow","Adult","K01-011","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"76","Willow","Adult","K01-011","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"77","Willow","Adult","K01-020","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","Partial"
-"78","Willow","Adult","K01-020","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"79","Willow","Adult","K01-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"80","Willow","Adult","K01-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"81","Willow","Adult","K01-030","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"82","Willow","Adult","K01-030","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"83","Willow","Adult","K01-030","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"84","Willow","Adult","K01-030","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"85","Willow","Adult","L01-080","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"86","Willow","Adult","L01-080","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"87","Willow","Adult","L01-080","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"88","Willow","Adult","L01-080","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"89","Willow","Adult","L01-100","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","Low"
-"90","Willow","Adult","L01-100","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","Low"
-"91","Willow","Adult","L01-100","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","Low"
-"92","Willow","Adult","L01-100","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","Low"
-"93","Willow","Adult","L02-010","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","Low"
-"94","Willow","Adult","L02-010","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","Low"
-"95","Willow","Adult","L02-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"96","Willow","Adult","L02-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"97","Willow","Adult","L02-020","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"98","Willow","Adult","L02-020","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"99","Willow","Adult","L02-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"100","Willow","Adult","L02-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"101","Willow","Adult","L02-021","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"102","Willow","Adult","L02-021","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"103","Willow","Adult","L02-021","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"104","Willow","Adult","L02-021","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"105","Willow","Adult","L02-022","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"106","Willow","Adult","L02-022","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"107","Willow","Adult","L02-022","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"108","Willow","Adult","L02-022","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"109","Willow","Adult","L02-023","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"110","Willow","Adult","L02-023","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"111","Willow","Adult","L02-023","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"112","Willow","Adult","L02-023","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"113","Willow","Adult","L02-030","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"114","Willow","Adult","L02-030","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"115","Willow","Adult","L02-030","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"116","Willow","Adult","L02-030","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"117","Willow","Adult","L02-031","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"118","Willow","Adult","L02-031","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"119","Willow","Adult","L02-031","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"120","Willow","Adult","L02-031","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"121","Willow","Adult","L02-040","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"122","Willow","Adult","L02-040","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"123","Willow","Adult","L02-040","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"124","Willow","Adult","L02-040","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"125","Willow","Adult","L02-041","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"126","Willow","Adult","L02-041","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"127","Willow","Adult","L02-041","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"128","Willow","Adult","L02-041","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"129","Willow","Adult","L02-050","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","Partial"
-"130","Willow","Adult","L02-050","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","Low"
-"131","Willow","Adult","L02-050","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","Partial"
-"132","Willow","Adult","L02-050","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","Partial"
-"133","Willow","Adult","L02-051","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","Partial"
-"134","Willow","Adult","L02-051","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","Low"
-"135","Willow","Adult","L02-051","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","Partial"
-"136","Willow","Adult","L02-051","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","Partial"
-"137","Willow","Adult","L03-010","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","Low"
-"138","Willow","Adult","L03-010","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","Low"
-"139","Willow","Adult","L03-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","Low"
-"140","Willow","Adult","L03-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","Low"
-"141","Willow","Adult","L03-011","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"142","Willow","Adult","L03-011","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"143","Willow","Adult","L03-011","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"144","Willow","Adult","L03-011","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"145","Willow","Adult","L03-020","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"146","Willow","Adult","L03-020","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"147","Willow","Adult","L03-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"148","Willow","Adult","L03-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"149","Willow","Adult","L03-030","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"150","Willow","Adult","L03-030","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"151","Willow","Adult","L03-030","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"152","Willow","Adult","L03-030","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"153","Willow","Adult","L04-010","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"154","Willow","Adult","L04-010","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"155","Willow","Adult","L04-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"156","Willow","Adult","L04-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"157","Willow","Adult","L05-010","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"158","Willow","Adult","L05-010","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"159","Willow","Adult","L05-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"160","Willow","Adult","L05-010","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"161","Willow","Adult","L05-020","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"162","Willow","Adult","L05-020","DS_Mag_50","summer","Dry-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"163","Willow","Adult","L05-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Existing_Conditions","High"
-"164","Willow","Adult","L05-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","210422_San_Juan_Water_Conservation","High"
-"165","Willow","Adult","M01-011","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"166","Willow","Adult","M01-011","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"167","Willow","Adult","M01-011","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"168","Willow","Adult","M01-011","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"169","Willow","Adult","M01-020","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"170","Willow","Adult","M01-020","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"171","Willow","Adult","M01-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"172","Willow","Adult","M01-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"173","Willow","Adult","M02-011","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"174","Willow","Adult","M02-011","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"175","Willow","Adult","M02-011","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"176","Willow","Adult","M02-011","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"177","Willow","Adult","M02-020","DS_Mag_50","summer","Dry-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"178","Willow","Adult","M02-020","DS_Mag_50","summer","Dry-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"179","Willow","Adult","M02-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"180","Willow","Adult","M02-020","Wet_BFL_Mag_10","winter","Wet-Season Baseflow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"181","Willow","Adult & Seedling","I01-012","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"182","Willow","Adult & Seedling","I01-012","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"183","Willow","Adult & Seedling","I01-020","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"184","Willow","Adult & Seedling","I01-020","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"185","Willow","Adult & Seedling","J01-010","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","High"
-"186","Willow","Adult & Seedling","J01-010","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","High"
-"187","Willow","Adult & Seedling","J01-020","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","High"
-"188","Willow","Adult & Seedling","J01-020","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","High"
-"189","Willow","Adult & Seedling","J01-030","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","Low"
-"190","Willow","Adult & Seedling","J01-030","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","High"
-"191","Willow","Adult & Seedling","J01-031","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","Low"
-"192","Willow","Adult & Seedling","J01-031","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","Low"
-"193","Willow","Adult & Seedling","J01-040","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","High"
-"194","Willow","Adult & Seedling","J01-040","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","High"
-"195","Willow","Adult & Seedling","J01-041","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","High"
-"196","Willow","Adult & Seedling","J01-041","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","High"
-"197","Willow","Adult & Seedling","J01-060","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","High"
-"198","Willow","Adult & Seedling","J01-060","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","High"
-"199","Willow","Adult & Seedling","J01-061","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","High"
-"200","Willow","Adult & Seedling","J01-061","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","High"
-"201","Willow","Adult & Seedling","J01-090","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","Low"
-"202","Willow","Adult & Seedling","J01-090","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","Low"
-"203","Willow","Adult & Seedling","J01-091","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","Low"
-"204","Willow","Adult & Seedling","J01-091","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","Low"
-"205","Willow","Adult & Seedling","J01-100","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","High"
-"206","Willow","Adult & Seedling","J01-100","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","Low"
-"207","Willow","Adult & Seedling","J03-010","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","High"
-"208","Willow","Adult & Seedling","J03-010","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","Low"
-"209","Willow","Adult & Seedling","J04-010","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","High"
-"210","Willow","Adult & Seedling","J04-010","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","High"
-"211","Willow","Adult & Seedling","J05-010","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","Low"
-"212","Willow","Adult & Seedling","J05-010","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","High"
-"213","Willow","Adult & Seedling","J07-010","SP_Mag","spring","Spring Recession Flow","201105_Aliso_Recalibration_Update","Low"
-"214","Willow","Adult & Seedling","J07-010","SP_Mag","spring","Spring Recession Flow","201111_Aliso_Water_Conservation_Scenario","Low"
-"215","Willow","Adult & Seedling","K01-010","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"216","Willow","Adult & Seedling","K01-010","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"217","Willow","Adult & Seedling","K01-011","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"218","Willow","Adult & Seedling","K01-011","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"219","Willow","Adult & Seedling","K01-020","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"220","Willow","Adult & Seedling","K01-020","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"221","Willow","Adult & Seedling","K01-030","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"222","Willow","Adult & Seedling","K01-030","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"223","Willow","Adult & Seedling","L01-080","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","High"
-"224","Willow","Adult & Seedling","L01-080","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","High"
-"225","Willow","Adult & Seedling","L01-100","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"226","Willow","Adult & Seedling","L01-100","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"227","Willow","Adult & Seedling","L02-010","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"228","Willow","Adult & Seedling","L02-010","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"229","Willow","Adult & Seedling","L02-020","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"230","Willow","Adult & Seedling","L02-020","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"231","Willow","Adult & Seedling","L02-021","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"232","Willow","Adult & Seedling","L02-021","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"233","Willow","Adult & Seedling","L02-022","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"234","Willow","Adult & Seedling","L02-022","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"235","Willow","Adult & Seedling","L02-023","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"236","Willow","Adult & Seedling","L02-023","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"237","Willow","Adult & Seedling","L02-030","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"238","Willow","Adult & Seedling","L02-030","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"239","Willow","Adult & Seedling","L02-031","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"240","Willow","Adult & Seedling","L02-031","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"241","Willow","Adult & Seedling","L02-040","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"242","Willow","Adult & Seedling","L02-040","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"243","Willow","Adult & Seedling","L02-041","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"244","Willow","Adult & Seedling","L02-041","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"245","Willow","Adult & Seedling","L02-050","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","High"
-"246","Willow","Adult & Seedling","L02-050","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","High"
-"247","Willow","Adult & Seedling","L02-051","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","High"
-"248","Willow","Adult & Seedling","L02-051","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","High"
-"249","Willow","Adult & Seedling","L03-010","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"250","Willow","Adult & Seedling","L03-010","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"251","Willow","Adult & Seedling","L03-011","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","High"
-"252","Willow","Adult & Seedling","L03-011","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","High"
-"253","Willow","Adult & Seedling","L03-020","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","High"
-"254","Willow","Adult & Seedling","L03-020","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","High"
-"255","Willow","Adult & Seedling","L03-030","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","High"
-"256","Willow","Adult & Seedling","L03-030","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","High"
-"257","Willow","Adult & Seedling","L04-010","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","Low"
-"258","Willow","Adult & Seedling","L04-010","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","Low"
-"259","Willow","Adult & Seedling","L05-010","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","High"
-"260","Willow","Adult & Seedling","L05-010","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","High"
-"261","Willow","Adult & Seedling","L05-020","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Existing_Conditions","High"
-"262","Willow","Adult & Seedling","L05-020","SP_Mag","spring","Spring Recession Flow","210422_San_Juan_Water_Conservation","High"
-"263","Willow","Adult & Seedling","M01-011","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"264","Willow","Adult & Seedling","M01-011","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"265","Willow","Adult & Seedling","M01-020","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","High"
-"266","Willow","Adult & Seedling","M01-020","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","High"
-"267","Willow","Adult & Seedling","M02-011","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"268","Willow","Adult & Seedling","M02-011","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
-"269","Willow","Adult & Seedling","M02-020","SP_Mag","spring","Spring Recession Flow","201118_Oso,_Small_Creeks_Existing_Conditions","Low"
-"270","Willow","Adult & Seedling","M02-020","SP_Mag","spring","Spring Recession Flow","201119_Oso,_Small_Creeks_Water_Conservation_Scenario","Low"
+,Species,LifeStage,Node,Metric,TimePeriod,SeasonalComponent,Scenario,Overall_Class
+1,Willow,Adult,I01-012,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+2,Willow,Adult,I01-012,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+3,Willow,Adult,I01-012,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+4,Willow,Adult,I01-012,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+5,Willow,Adult,I01-020,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+6,Willow,Adult,I01-020,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+7,Willow,Adult,I01-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+8,Willow,Adult,I01-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+9,Willow,Adult,J01-010,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+10,Willow,Adult,J01-010,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Low
+11,Willow,Adult,J01-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+12,Willow,Adult,J01-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Low
+13,Willow,Adult,J01-020,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,High
+14,Willow,Adult,J01-020,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+15,Willow,Adult,J01-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,High
+16,Willow,Adult,J01-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+17,Willow,Adult,J01-030,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,High
+18,Willow,Adult,J01-030,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+19,Willow,Adult,J01-030,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,High
+20,Willow,Adult,J01-030,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+21,Willow,Adult,J01-031,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+22,Willow,Adult,J01-031,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Low
+23,Willow,Adult,J01-031,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+24,Willow,Adult,J01-031,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Low
+25,Willow,Adult,J01-040,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,Partial
+26,Willow,Adult,J01-040,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+27,Willow,Adult,J01-040,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+28,Willow,Adult,J01-040,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Partial
+29,Willow,Adult,J01-041,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,High
+30,Willow,Adult,J01-041,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+31,Willow,Adult,J01-041,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,High
+32,Willow,Adult,J01-041,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+33,Willow,Adult,J01-060,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,High
+34,Willow,Adult,J01-060,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+35,Willow,Adult,J01-060,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,High
+36,Willow,Adult,J01-060,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+37,Willow,Adult,J01-061,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,Partial
+38,Willow,Adult,J01-061,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Partial
+39,Willow,Adult,J01-061,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,High
+40,Willow,Adult,J01-061,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+41,Willow,Adult,J01-090,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+42,Willow,Adult,J01-090,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Low
+43,Willow,Adult,J01-090,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,Partial
+44,Willow,Adult,J01-090,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Low
+45,Willow,Adult,J01-091,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+46,Willow,Adult,J01-091,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+47,Willow,Adult,J01-091,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+48,Willow,Adult,J01-091,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+49,Willow,Adult,J01-100,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,High
+50,Willow,Adult,J01-100,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+51,Willow,Adult,J01-100,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,Partial
+52,Willow,Adult,J01-100,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+53,Willow,Adult,J03-010,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,High
+54,Willow,Adult,J03-010,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+55,Willow,Adult,J03-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,High
+56,Willow,Adult,J03-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+57,Willow,Adult,J04-010,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,High
+58,Willow,Adult,J04-010,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+59,Willow,Adult,J04-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,High
+60,Willow,Adult,J04-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+61,Willow,Adult,J05-010,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,Partial
+62,Willow,Adult,J05-010,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+63,Willow,Adult,J05-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,High
+64,Willow,Adult,J05-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,High
+65,Willow,Adult,J07-010,DS_Mag_50,summer,Dry-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+66,Willow,Adult,J07-010,DS_Mag_50,summer,Dry-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Low
+67,Willow,Adult,J07-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201105_Aliso_Recalibration_Update,Low
+68,Willow,Adult,J07-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,201111_Aliso_Water_Conservation_Scenario,Low
+69,Willow,Adult,K01-010,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+70,Willow,Adult,K01-010,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+71,Willow,Adult,K01-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+72,Willow,Adult,K01-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+73,Willow,Adult,K01-011,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+74,Willow,Adult,K01-011,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+75,Willow,Adult,K01-011,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+76,Willow,Adult,K01-011,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+77,Willow,Adult,K01-020,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",Partial
+78,Willow,Adult,K01-020,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+79,Willow,Adult,K01-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+80,Willow,Adult,K01-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+81,Willow,Adult,K01-030,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+82,Willow,Adult,K01-030,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+83,Willow,Adult,K01-030,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+84,Willow,Adult,K01-030,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+85,Willow,Adult,L01-080,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+86,Willow,Adult,L01-080,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+87,Willow,Adult,L01-080,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+88,Willow,Adult,L01-080,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+89,Willow,Adult,L01-100,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,Low
+90,Willow,Adult,L01-100,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,Low
+91,Willow,Adult,L01-100,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,Low
+92,Willow,Adult,L01-100,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,Low
+93,Willow,Adult,L02-010,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,Low
+94,Willow,Adult,L02-010,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,Low
+95,Willow,Adult,L02-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+96,Willow,Adult,L02-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+97,Willow,Adult,L02-020,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+98,Willow,Adult,L02-020,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+99,Willow,Adult,L02-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+100,Willow,Adult,L02-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+101,Willow,Adult,L02-021,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+102,Willow,Adult,L02-021,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+103,Willow,Adult,L02-021,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+104,Willow,Adult,L02-021,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+105,Willow,Adult,L02-022,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+106,Willow,Adult,L02-022,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+107,Willow,Adult,L02-022,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+108,Willow,Adult,L02-022,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+109,Willow,Adult,L02-023,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+110,Willow,Adult,L02-023,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+111,Willow,Adult,L02-023,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+112,Willow,Adult,L02-023,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+113,Willow,Adult,L02-030,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+114,Willow,Adult,L02-030,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+115,Willow,Adult,L02-030,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+116,Willow,Adult,L02-030,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+117,Willow,Adult,L02-031,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+118,Willow,Adult,L02-031,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+119,Willow,Adult,L02-031,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+120,Willow,Adult,L02-031,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+121,Willow,Adult,L02-040,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+122,Willow,Adult,L02-040,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+123,Willow,Adult,L02-040,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+124,Willow,Adult,L02-040,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+125,Willow,Adult,L02-041,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+126,Willow,Adult,L02-041,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+127,Willow,Adult,L02-041,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+128,Willow,Adult,L02-041,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+129,Willow,Adult,L02-050,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,Partial
+130,Willow,Adult,L02-050,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,Low
+131,Willow,Adult,L02-050,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,Partial
+132,Willow,Adult,L02-050,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,Partial
+133,Willow,Adult,L02-051,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,Partial
+134,Willow,Adult,L02-051,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,Low
+135,Willow,Adult,L02-051,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,Partial
+136,Willow,Adult,L02-051,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,Partial
+137,Willow,Adult,L03-010,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,Low
+138,Willow,Adult,L03-010,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,Low
+139,Willow,Adult,L03-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,Low
+140,Willow,Adult,L03-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,Low
+141,Willow,Adult,L03-011,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+142,Willow,Adult,L03-011,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+143,Willow,Adult,L03-011,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+144,Willow,Adult,L03-011,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+145,Willow,Adult,L03-020,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+146,Willow,Adult,L03-020,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+147,Willow,Adult,L03-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+148,Willow,Adult,L03-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+149,Willow,Adult,L03-030,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+150,Willow,Adult,L03-030,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+151,Willow,Adult,L03-030,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+152,Willow,Adult,L03-030,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+153,Willow,Adult,L04-010,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+154,Willow,Adult,L04-010,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+155,Willow,Adult,L04-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+156,Willow,Adult,L04-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+157,Willow,Adult,L05-010,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+158,Willow,Adult,L05-010,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+159,Willow,Adult,L05-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+160,Willow,Adult,L05-010,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+161,Willow,Adult,L05-020,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+162,Willow,Adult,L05-020,DS_Mag_50,summer,Dry-Season Baseflow,210422_San_Juan_Water_Conservation,High
+163,Willow,Adult,L05-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Existing_Conditions,High
+164,Willow,Adult,L05-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,210422_San_Juan_Water_Conservation,High
+165,Willow,Adult,M01-011,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+166,Willow,Adult,M01-011,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+167,Willow,Adult,M01-011,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+168,Willow,Adult,M01-011,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+169,Willow,Adult,M01-020,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+170,Willow,Adult,M01-020,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+171,Willow,Adult,M01-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+172,Willow,Adult,M01-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+173,Willow,Adult,M02-011,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+174,Willow,Adult,M02-011,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+175,Willow,Adult,M02-011,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+176,Willow,Adult,M02-011,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+177,Willow,Adult,M02-020,DS_Mag_50,summer,Dry-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+178,Willow,Adult,M02-020,DS_Mag_50,summer,Dry-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+179,Willow,Adult,M02-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+180,Willow,Adult,M02-020,Wet_BFL_Mag_10,winter,Wet-Season Baseflow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+181,Willow,Adult & Seedling,I01-012,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+182,Willow,Adult & Seedling,I01-012,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+183,Willow,Adult & Seedling,I01-020,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+184,Willow,Adult & Seedling,I01-020,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+185,Willow,Adult & Seedling,J01-010,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,High
+186,Willow,Adult & Seedling,J01-010,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,High
+187,Willow,Adult & Seedling,J01-020,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,High
+188,Willow,Adult & Seedling,J01-020,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,High
+189,Willow,Adult & Seedling,J01-030,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,Low
+190,Willow,Adult & Seedling,J01-030,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,High
+191,Willow,Adult & Seedling,J01-031,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,Low
+192,Willow,Adult & Seedling,J01-031,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,Low
+193,Willow,Adult & Seedling,J01-040,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,High
+194,Willow,Adult & Seedling,J01-040,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,High
+195,Willow,Adult & Seedling,J01-041,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,High
+196,Willow,Adult & Seedling,J01-041,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,High
+197,Willow,Adult & Seedling,J01-060,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,High
+198,Willow,Adult & Seedling,J01-060,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,High
+199,Willow,Adult & Seedling,J01-061,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,High
+200,Willow,Adult & Seedling,J01-061,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,High
+201,Willow,Adult & Seedling,J01-090,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,Low
+202,Willow,Adult & Seedling,J01-090,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,Low
+203,Willow,Adult & Seedling,J01-091,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,Low
+204,Willow,Adult & Seedling,J01-091,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,Low
+205,Willow,Adult & Seedling,J01-100,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,High
+206,Willow,Adult & Seedling,J01-100,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,Low
+207,Willow,Adult & Seedling,J03-010,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,High
+208,Willow,Adult & Seedling,J03-010,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,Low
+209,Willow,Adult & Seedling,J04-010,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,High
+210,Willow,Adult & Seedling,J04-010,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,High
+211,Willow,Adult & Seedling,J05-010,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,Low
+212,Willow,Adult & Seedling,J05-010,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,High
+213,Willow,Adult & Seedling,J07-010,SP_Mag,spring,Spring Recession Flow,201105_Aliso_Recalibration_Update,Low
+214,Willow,Adult & Seedling,J07-010,SP_Mag,spring,Spring Recession Flow,201111_Aliso_Water_Conservation_Scenario,Low
+215,Willow,Adult & Seedling,K01-010,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+216,Willow,Adult & Seedling,K01-010,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+217,Willow,Adult & Seedling,K01-011,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+218,Willow,Adult & Seedling,K01-011,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+219,Willow,Adult & Seedling,K01-020,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+220,Willow,Adult & Seedling,K01-020,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+221,Willow,Adult & Seedling,K01-030,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+222,Willow,Adult & Seedling,K01-030,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+223,Willow,Adult & Seedling,L01-080,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,High
+224,Willow,Adult & Seedling,L01-080,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,High
+225,Willow,Adult & Seedling,L01-100,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+226,Willow,Adult & Seedling,L01-100,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+227,Willow,Adult & Seedling,L02-010,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+228,Willow,Adult & Seedling,L02-010,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+229,Willow,Adult & Seedling,L02-020,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+230,Willow,Adult & Seedling,L02-020,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+231,Willow,Adult & Seedling,L02-021,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+232,Willow,Adult & Seedling,L02-021,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+233,Willow,Adult & Seedling,L02-022,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+234,Willow,Adult & Seedling,L02-022,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+235,Willow,Adult & Seedling,L02-023,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+236,Willow,Adult & Seedling,L02-023,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+237,Willow,Adult & Seedling,L02-030,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+238,Willow,Adult & Seedling,L02-030,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+239,Willow,Adult & Seedling,L02-031,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+240,Willow,Adult & Seedling,L02-031,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+241,Willow,Adult & Seedling,L02-040,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+242,Willow,Adult & Seedling,L02-040,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+243,Willow,Adult & Seedling,L02-041,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+244,Willow,Adult & Seedling,L02-041,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+245,Willow,Adult & Seedling,L02-050,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,High
+246,Willow,Adult & Seedling,L02-050,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,High
+247,Willow,Adult & Seedling,L02-051,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,High
+248,Willow,Adult & Seedling,L02-051,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,High
+249,Willow,Adult & Seedling,L03-010,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+250,Willow,Adult & Seedling,L03-010,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+251,Willow,Adult & Seedling,L03-011,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,High
+252,Willow,Adult & Seedling,L03-011,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,High
+253,Willow,Adult & Seedling,L03-020,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,High
+254,Willow,Adult & Seedling,L03-020,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,High
+255,Willow,Adult & Seedling,L03-030,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,High
+256,Willow,Adult & Seedling,L03-030,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,High
+257,Willow,Adult & Seedling,L04-010,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,Low
+258,Willow,Adult & Seedling,L04-010,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,Low
+259,Willow,Adult & Seedling,L05-010,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,High
+260,Willow,Adult & Seedling,L05-010,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,High
+261,Willow,Adult & Seedling,L05-020,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Existing_Conditions,High
+262,Willow,Adult & Seedling,L05-020,SP_Mag,spring,Spring Recession Flow,210422_San_Juan_Water_Conservation,High
+263,Willow,Adult & Seedling,M01-011,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+264,Willow,Adult & Seedling,M01-011,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+265,Willow,Adult & Seedling,M01-020,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",High
+266,Willow,Adult & Seedling,M01-020,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",High
+267,Willow,Adult & Seedling,M02-011,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+268,Willow,Adult & Seedling,M02-011,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
+269,Willow,Adult & Seedling,M02-020,SP_Mag,spring,Spring Recession Flow,"201118_Oso,_Small_Creeks_Existing_Conditions",Low
+270,Willow,Adult & Seedling,M02-020,SP_Mag,spring,Spring Recession Flow,"201119_Oso,_Small_Creeks_Water_Conservation_Scenario",Low
